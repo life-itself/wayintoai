@@ -85,3 +85,4 @@ Next step is to run cmux-beads against a real backlog for a week and see whether
 - [cmux](/ref/cmux)
 - [bb](/ref/bb)
 - [Claude Projects (redesigned)](/ref/claude-projects) — Anthropic's own coordinator-plus-threads answer, Claude Code only, no Beads
+- [Is there a tool for two people to drive one AI agent session together, live?](/posts/2026-09-27-live-collaborate-on-one-ai-agent-session) — the same "does it exist?" question, for real-time pairing on one session
