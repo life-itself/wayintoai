@@ -12,6 +12,7 @@ Map of Content for the emerging category of environments that run, coordinate, a
 - [[bb]] — local-first, open-source IDE/orchestrator whose agents can build plugins that reshape the workbench itself.
 - [[pi.dev]] — minimal, terminal-first harness with deep extension and package support.
 - [[paperclip]] — agent-team management built around goals, roles, budgets, and governance.
+- [[claude-projects]] — Anthropic's own coordinator-plus-threads workbench for Claude Code: one conversation delegates to parallel cloud sessions.
 
 ## Why this category matters
 

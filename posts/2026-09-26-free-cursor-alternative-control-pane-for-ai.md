@@ -84,3 +84,4 @@ Next step is to run cmux-beads against a real backlog for a week and see whether
 - [How do I run multiple threads in Claude at the same time?](/posts/2026-08-26-run-multiple-threads-in-claude)
 - [cmux](/ref/cmux)
 - [bb](/ref/bb)
+- [Claude Projects (redesigned)](/ref/claude-projects) — Anthropic's own coordinator-plus-threads answer, Claude Code only, no Beads
