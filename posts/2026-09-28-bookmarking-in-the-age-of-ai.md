@@ -16,7 +16,7 @@ Over the last year, AI has quietly taken this over. I now do papertrail every da
 
 And it's more than bookmarking. The thing I'm really doing is curating **knowledge bases**, plural. I have one per area rather than one big one:
 
-- [Way into AI](/) (this site): everything I'm learning about AI tools and agents. A lot of its [references](/ref) and [logs](/logs) started as exactly this kind of quick drop.
+- [Way into AI](/) (this site): everything I'm learning about AI tools and agents. A lot of its references and [logs](/logs) started as exactly this kind of quick drop.
 - [rufuspollock.com](https://rufuspollock.com): my personal site and logs, where the general papertrail ends up.
 - Others for specific topics, e.g. collective action.
 
