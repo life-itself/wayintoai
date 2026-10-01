@@ -10,6 +10,7 @@ Map of Content for specific prompts and prompt-workflows worth reusing — not p
 ## Entries
 
 - [[rexan-wong-motion-graphics-prompt]] — multi-step workflow (named style reference, code-based renderer, real UI components, staged storyboard review) for pro-level motion graphics out of Claude Opus 5.5, instead of a flat one-shot prompt.
+- [[movez-opus-5-5-motion-design-prompt]] — fill-in-the-blanks prompt for a complete 75–90 second educational animation from Opus 5.5, with fixed visual identity, seven-scene structure and per-scene spec.
 
 ## Why this category matters
 
