@@ -69,6 +69,8 @@ tags: [tag1, tag2, tag3]
 - Add: Detailed sections on features, philosophy, comparisons
 - Add: Related topics, commentary, significance
 
+**YouTube videos:** put the bare YouTube URL on its own line; Flowershow renders it as an embed. No iframe or screenshot needed.
+
 **Screenshots (REQUIRED for web content):**
 - **ALWAYS include for web-based tools, articles, tweets, or any public URL**
 - Use screenshotit.app: `https://screenshotit.app/{url}`
