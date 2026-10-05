@@ -8,8 +8,6 @@ tags: [claude-code, skills, skill-library, company-brain, agent-skills, team-wor
 
 > A shared repository where everyone writes down their whole team's complete workflow — and everyone gets the update. The key insight: downloading skills through a UI every time there's an update kills workflow; instead, set up auto-scan or hook agents to always pull the latest version.
 
-![Company Skills Library — X thread by Shannon Holmberg](https://screenshotit.app/https://x.com/shannholmberg/status/2092137771846844642)
-
 ## What the pattern is
 
 Shannon Holmberg (@shannholmberg) posted a thread on X laying out how to create and maintain a company-wide skills library. The core idea: instead of treating skills as something each person downloads individually from a UI (which leads to version drift and nobody knowing about improvements), treat a GitHub repo as the source of truth ("the Brain") and auto-pull the latest versions into every agent session.

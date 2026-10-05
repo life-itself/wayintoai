@@ -8,8 +8,6 @@ tags: [video, opus-5-5, opus-5-5-demo-videos, ai-generated-media, ai-risk, doome
 
 A video made with Claude Opus 5.5 arguing that AI doom predictions failed: "NOTHING WENT FOOM, as was always predicted."
 
-![Bright Mirror tweet: Nothing went foom](https://screenshotit.app/https://x.com/_brightmirror/status/2104078568137675107)
-
 ## Links
 
 - Tweet (with video): https://x.com/_brightmirror/status/2104078568137675107 (posted 2026-09-27)

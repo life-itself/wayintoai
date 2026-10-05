@@ -9,8 +9,6 @@ tags: [ai-prompts, video, motion-graphics, claude, opus, workflow, twitter-threa
 > Everyone's sharing motion graphic videos Opus 5.5 made, and it's genuinely insane. Everyone says they made it with "one prompt" — but a bare one-prompt attempt looks mid. Here's the workflow that actually gets pro-level results.
 > — [@rexan_wong](https://x.com/rexan_wong)
 
-![Rexan Wong thread on Opus 5.5 motion graphics workflow](https://screenshotit.app/https://x.com/rexan_wong/status/2103707054108299437)
-
 ## Links
 
 - Tweet: https://x.com/rexan_wong/status/2103707054108299437

@@ -8,8 +8,6 @@ tags: [ai-prompts, video, motion-graphics, opus-5-5, opus-5-5-demo-videos, claud
 
 A reusable prompt template for getting Claude Opus 5.5 to plan and build a complete 75–90 second educational animation, from Movez's article "How to build motion design studio with Opus 5.5 (Full-course)".
 
-![Movez article: How to build motion design studio with Opus 5.5](https://screenshotit.app/https://x.com/0xMovez/status/2104216919033192746)
-
 ## Links
 
 - Article: https://x.com/0xMovez/status/2104216919033192746 (posted 2026-09-27)

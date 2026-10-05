@@ -8,8 +8,6 @@ tags: [ai, ai-safety, acceleration, nonlinear-dynamics, terence-tao, discourse]
 
 Haider clips Terence Tao arguing that the pace of AI development is unjustifiably fast: society is changing everything without knowing what follows, in a system governed by “extremely nonlinear dynamics.”
 
-![Terence Tao argues for slowing down AI](https://screenshotit.app/https://x.com/haider1/status/2101368221651869962)
-
 ## Links
 
 - [Thread on X](https://x.com/haider1/status/2101368221651869962)

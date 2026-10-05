@@ -8,8 +8,6 @@ tags: [hermes-agent, ai-agents, autonomous-agents, persistent-memory, ai-coding]
 
 A practical guide to setting up Hermes Agent for persistent memory, self-created skills, multi-profile workflows, and autonomous execution.
 
-![Hermes Agent playbook](https://screenshotit.app/https://x.com/PrajwalTomar_/article/2064324584254710262)
-
 ## Links
 
 - **Original article:** https://x.com/PrajwalTomar_/article/2064324584254710262
