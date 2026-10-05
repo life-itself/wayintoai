@@ -249,6 +249,11 @@ of Gmail (2M emails, 150K attachments) in a single Go binary.
 - Reference entries: comprehensive but organized
 - Use headers to break up long content
 
+**Paragraphs, numbers and charts** (posts and refs): follow [docs/numbers-and-charts.md](docs/numbers-and-charts.md).
+- Paragraphs of at most about 60 words; break where the thought turns.
+- Three or more comparable figures go in a small Markdown table with a source caption, not a sentence.
+- Where it shows the point faster, add a small house-style SVG chart in `assets/` next to the table.
+
 **Links:**
 - Always include primary website
 - GitHub if open source
@@ -284,6 +289,7 @@ of Gmail (2M emails, 150K attachments) in a single Go binary.
 - [ ] If reference: create `ref/topic-name.md` with frontmatter
 - [ ] If reference: include links, overview, features
 - [ ] If web tool: add screenshot via screenshotit.app
+- [ ] Paragraphs ≤ ~60 words; 3+ comparable figures in a table (chart if it helps)
 - [ ] Update `logs/YYYY-MM-DD.md` with wiki link entry
 - [ ] Git add both files
 - [ ] Git commit with descriptive message

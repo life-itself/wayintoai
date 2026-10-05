@@ -81,6 +81,7 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
 4. **Draft** in house voice (`docs/brand.md`): first person plural, specific. This is a **roundup, not new editorial**: report what the sources say, and use only takes already recorded in our posts and refs. Don't add new inferences, predictions or opinions; when in doubt, cut the sentence. Say "we think", "we don't know yet". Concrete numbers and examples over adjectives; no hype, doom, jargon, or digest-speak ("In this week's roundup…", "exciting", "game-changer").
    - **Headlines** state the point as a plain claim. Never the "X, not Y" / "not X but Y" shape, and never the product name alone.
    - **Items:** what happened and why it matters, with our take only where a post or ref already states it. Vary the shape; five identical four-sentence paragraphs read like a digest. Keep claims no broader than the evidence (sample sizes, "vendor figures").
+   - **Paragraphs and numbers** follow [docs/numbers-and-charts.md](../../../docs/numbers-and-charts.md): paragraphs of at most about 60 words, broken where the item turns; three or more comparable figures go in a small two-column Markdown table with the subject in **bold** and an italic source caption. A percentage table renders in the email as a bar chart. No images, SVG or HTML for data in the weekly.
    - **One thing to try** ends with the exact first step (a command, a menu, a prompt) and how long it takes.
    - **Opener:** one or two sentences naming the week's thread. Issue 1 (or after a gap) also says what this email is, in one sentence.
    - **Sign-off:** invite replies ("Just reply to this email") and point to the log.
@@ -117,6 +118,7 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
    - `rg -n '\[\[|\]\(\.\.?/|\.md\)' weekly/<file>` returns nothing (no wiki or relative links).
    - Every `https://wayintoai.com/...` link maps to an existing `ref/` or `posts/` file, and every such file is in `items:`.
    - Every number, quote and "we think" traces to a file in `items:`.
+   - No paragraph over about 60 words: `awk -v RS= 'NF>60 && !/^(---|\||- )/{print NR": "NF" words"}' weekly/<file>` prints nothing (or each hit is justified). Runs of three or more comparable figures are a table.
    - Subject ≤ 55 chars and says nothing the body contradicts.
    - Tell pass: run Humanizer (`/humanizer` on the body) if installed, or check by hand for "X, not Y", rules of three, inflated importance, em-dash runs, filler.
    - Optional: have a sub-agent critique content (accuracy against sources, selection, voice) and fold in what holds up.
