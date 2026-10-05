@@ -4,6 +4,8 @@ description: I want VS Code Live Share, but for a coding-agent session — both 
 date: 2026-09-27
 ---
 
+> **Update (2026-10-05):** Zed have now built this: [Delta](/ref/delta-zed), a multiplayer environment where teammates join the same live agent thread.
+
 **TL;DR:** No single tool does "Live Share for agent sessions." Stitch two things: a raw shared terminal (**sshx**, or VS Code Live Share's read-write terminal mode) so you can both type into the same running `claude`/`codex` session, plus something separate for writing the prompt/spec together (**Claude Cowork's Docs**, or a shared doc). **Zed** is the one editor that already does true multiplayer editing and runs Claude Code side by side — untested by me whether two people can co-steer the *same* agent turn, or only watch it together.
 
 ## Situation
@@ -60,5 +62,6 @@ Next step is to actually run `claude` inside an sshx session with a colleague an
 
 ## Related
 
+- [Delta (Zed)](/ref/delta-zed) — the purpose-built answer, launched in public beta
 - [Is there a free, open-source Cursor alternative that uses my own AI subscriptions?](/posts/2026-09-26-free-cursor-alternative-control-pane-for-ai)
 - [Claude Projects (redesigned)](/ref/claude-projects) — Anthropic's own coordinator, but single-user: no sharing a project or its threads with another person

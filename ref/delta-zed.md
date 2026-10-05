@@ -17,7 +17,7 @@ Zed's new multiplayer development environment where the unit of work is a shared
 - Status: public beta (from 2026-09-16)
 
 > **Rufus's note (2026-10-05):**
-> I've been looking for how to collaborate on an AI thread the same way we could with code via VS Code Live Share etc. Multiplayer for the AI age … and Zed have built it. — Rufus Pollock
+> I've been looking for how to collaborate on an AI thread the same way we could with code via VS Code Live Share etc. Multiplayer for the AI age … and Zed have built it. (I [went looking for this on 27 Sep](/posts/2026-09-27-live-collaborate-on-one-ai-agent-session) and found nothing packaged.) — Rufus Pollock
 
 ## Overview
 
@@ -52,5 +52,6 @@ Open questions:
 
 ## Related
 
+- [Is there a tool for two people to drive one AI agent session together, live?](/posts/2026-09-27-live-collaborate-on-one-ai-agent-session) — my 27 Sep search for exactly this, a week before finding Delta
 - [[moc-agent-workbenches]]
 - [[claude-projects]]

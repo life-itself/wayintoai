@@ -27,6 +27,7 @@ As of 2026, actively exploring and documenting the emergence of agentic AI syste
 ### Threads & Insights
 
 - [[karpathy-december-coding-agents-breakthrough]] - February 2026 thread on the fundamental shift in coding agent capabilities that occurred in December 2024
+- [[karpathy-efficient-ways-to-get-llms-to-explain]] - October 2026 ladder of formats for understanding LLM output: ASD-STE100 writing, diagrams, HTML, bespoke explainer videos
 
 ### Projects & Tools
 
