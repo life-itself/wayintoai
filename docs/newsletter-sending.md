@@ -43,6 +43,12 @@ that `publish: false` has been removed, and that the canonical URL is live
 existing issue, inspect `status` before restarting; a sent or uncertain send
 must not be treated as a new draft.
 
+To schedule instead of sending on approval, add
+`--scheduled-at 2026-10-07T07:00:00Z` (RFC 3339, explicit offset; 07:00Z is
+09:00 in Copenhagen in summer time) to `prepare`. Approval then covers that time, and `status`
+shows `scheduled` until it goes out. Cancelling is final for the issue key, so
+pick the time before approving. See the CRM guide for details.
+
 Review the returned private `preview.html`, neighboring `email.txt` and
 `review.json`. Check links and the public issue page, sender, subject, exact
 eligible addresses, exclusions and `scheduledAt: null`. A local preview does
