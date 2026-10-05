@@ -5,6 +5,8 @@ date: 2026-09-18
 tags: [ai-models, automation, structured-outputs]
 featured: true
 newsletter: standalone
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 Some model launches promise a more capable assistant. TypeSafe's Jev raises a different possibility: intelligence cheap and fast enough to become an ordinary ingredient in software. If that works, the interesting change will be in the applications people can build around it.

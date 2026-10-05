@@ -3,6 +3,8 @@ created: 2026-09-23
 author: Anthropic
 tags: [models, anthropic, claude, opus-5-5, agents, coding, knowledge-work, benchmarks, pricing, alignment, safeguards, major-news]
 image: /assets/claude-opus-5-5-benchmarks-2026-09-22.png
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # Claude Opus 5.5

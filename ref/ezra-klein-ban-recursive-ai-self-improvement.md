@@ -2,6 +2,8 @@
 created: 2026-09-20
 author: Ezra Klein
 tags: [ai-safety, recursive-self-improvement, ai-governance, frontier-ai, loss-of-control]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # This Is What I Fear Most About A.I.

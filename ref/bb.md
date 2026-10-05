@@ -2,6 +2,8 @@
 created: 2026-09-18
 author: BB
 tags: [agent-workbench, agent-orchestrator, ide, coding-agents, plugins, open-source, local-first]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # bb — The IDE That Builds Itself

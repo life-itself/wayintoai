@@ -2,6 +2,8 @@
 created: 2026-09-18
 author: TypeSafe AI
 tags: [ai-models, structured-outputs, automation, uncertainty]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # TypeSafe Jev and System One models

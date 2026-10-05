@@ -2,6 +2,8 @@
 created: 2026-09-20
 author: Haider
 tags: [ai, ai-safety, acceleration, nonlinear-dynamics, terence-tao, discourse]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # Terence Tao: “We have to slow down AI”

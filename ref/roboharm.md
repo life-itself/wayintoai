@@ -2,6 +2,8 @@
 created: 2026-09-20
 author: Edward Sun, Sravanthi Machcha, Sabrina Zou, Tzu Kit Chan, Jay Chooi
 tags: [robotics, ai-safety, benchmarks, embodied-ai, harmful-instructions, robot-policies]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # RoboHarm

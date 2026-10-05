@@ -2,6 +2,8 @@
 created: 2026-09-23
 tags: [moc, models, frontier-models, model-releases, timeline, benchmarks, anthropic, openai]
 image: /assets/frontier-models-terminal-bench-2026-09.svg
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # MOC: Frontier Model Releases

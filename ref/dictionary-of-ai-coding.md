@@ -2,6 +2,8 @@
 created: 2026-09-26
 author: Matt Pocock
 tags: [ai-coding, glossary, agents, context-window, reference]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # Dictionary of AI Coding

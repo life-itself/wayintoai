@@ -2,6 +2,8 @@
 created: 2026-09-20
 author: Gossip Goblin
 tags: [ai-xrisk, ai-safety, arms-race, coordination, video]
+newsletter_sent: 2026-10-05
+newsletter_url: https://wayintoai.com/weekly/2026-w40
 ---
 
 # Victory By Any Means
