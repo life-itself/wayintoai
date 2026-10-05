@@ -21,7 +21,8 @@ Read before drafting: `docs/brand.md` (voice, promise, issue structure) and "Fea
 | Site title | `What mattered · week <N>`. |
 | Issue number | `issue:` = number of `status: sent` issues in `weekly/` + 1. |
 | Window | Day after the last **sent** issue's `window_end` through the day before drafting. Scheduled Monday run: previous Tuesday → Sunday. First issue: last 7 days, extended back to the oldest unsent flagged item if it is under 4 weeks old. |
-| Status | `status: draft` → `approved` (human) → `sent` (94n.2 only). |
+| Status | `status: draft` with `publish: false` → `approved` (human; delete `publish: false` in the same edit) → `sent` (after the send only). |
+| Visibility | Drafts carry `publish: false` so Flowershow does not publish them. Approved and sent issues are public at `/weekly/<yyyy>-w<ww>` and listed on `/weekly`. |
 
 ### One markdown file, two outputs
 
@@ -36,7 +37,7 @@ The same file is the site page and the email body, so the body must be plain Com
 
 ### Approval and the content hash
 
-The send step binds approval to a hash of the **body (after frontmatter) plus `subject` and `preheader`**. Changing `status` does not change the hash; any other edit to those after approval requires re-approval.
+The CRM currently binds send approval to a hash of the **whole source file, frontmatter included** (wayintoai-94n.6 tracks narrowing it to body, subject and preheader). So make every pre-send edit first: set `status: approved`, delete `publish: false`, push so the canonical page is live, and only then prepare and draft. Do not touch the file again until the send is confirmed; then set `status: sent` and `sent:`.
 
 ### Frontmatter
 
@@ -50,6 +51,7 @@ issue: 1
 subject: "Opus 5.5: top-tier AI for 40% less"
 preheader: "Week 40. Also: …"
 status: draft
+publish: false              # keeps the draft off the site; delete on approval
 window_start: 2026-09-22
 window_end: 2026-09-27
 items:                      # every repo file the body links or draws facts from; 94n.2 marks these newsletter_sent
@@ -123,7 +125,7 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
    - Tell pass: run Humanizer (`/humanizer` on the body) if installed, or check by hand for "X, not Y", rules of three, inflated importance, em-dash runs, filler.
    - Optional: have a sub-agent critique content (accuracy against sources, selection, voice) and fold in what holds up.
 
-6. **Stop for approval.** Do not commit, push, send, or change flags on source items. Report: file path, subject, word count, the selection with one-line reasons, what was left out and why, and review notes (`CONFIRM` items, takes that need the reviewer's view). The reviewer edits the file and sets `status: approved`; that is the only approval signal 94n.2 accepts.
+6. **Stop for approval.** Do not commit, push, send, or change flags on source items. Report: file path, subject, word count, the selection with one-line reasons, what was left out and why, and review notes (`CONFIRM` items, takes that need the reviewer's view). The reviewer edits the file, sets `status: approved` and deletes `publish: false`; that is the only editorial approval signal. It does not authorize a send: the send gate in `docs/newsletter-sending.md` still needs explicit approval of the rendered message and exact audience.
 
 ## Surfacing the Monday draft
 

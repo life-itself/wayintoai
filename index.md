@@ -23,6 +23,7 @@ showEditLink: false
 <button type="submit">Subscribe</button>
 </form>
 <p class="wai__small">Send me the Way Into AI newsletter. Once a week. Free. Unsubscribe any time. <a href="https://lifeitself.org/privacy-policy">Privacy policy</a></p>
+<p class="wai__small"><a class="wai__cta" href="/weekly">Read past issues</a></p>
 </div>
 <div class="wai__issue">
 <p class="wai__label">In each issue</p>

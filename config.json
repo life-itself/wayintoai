@@ -17,6 +17,10 @@
         "href": "/understand"
       },
       {
+        "name": "Weekly",
+        "href": "/weekly"
+      },
+      {
         "name": "Posts",
         "href": "/posts"
       },

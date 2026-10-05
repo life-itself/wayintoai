@@ -195,3 +195,9 @@ body { background: var(--color-background); }
   .wai__kind { text-align: left; }
   .wai__ways-grid { gap: 1.5rem; }
 }
+
+/* Subscribe box embedded in a normal page (e.g. /weekly) */
+.wai.wai--embed { background: transparent; border-block: 1px solid var(--wai-rule); margin: 0.5rem 0 2rem; padding: 1.25rem 0 1.1rem; }
+.rendered-mdx .wai--embed .wai__label { font-size: 0.78rem; line-height: 1.5; margin: 0 0 0.75rem; }
+.rendered-mdx .wai--embed .wai__small { font-size: 0.8rem; line-height: 1.5; margin: 0.6rem 0 0; }
+.rendered-mdx .wai--embed .wai__small a { color: inherit; }

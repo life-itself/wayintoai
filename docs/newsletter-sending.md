@@ -37,8 +37,9 @@ node "$newsletter_cli" draft --newsletter way-into-ai --issue-key weekly-2026-w4
 ```
 
 For another issue, take the subject from its frontmatter and derive the path,
-canonical URL and stable issue key from its filename. Verify `status: approved`
-before preparing. Keep the same key through revisions and recovery. For an
+canonical URL and stable issue key from its filename. Verify `status: approved`,
+that `publish: false` has been removed, and that the canonical URL is live
+(push first) before preparing. Keep the same key through revisions and recovery. For an
 existing issue, inspect `status` before restarting; a sent or uncertain send
 must not be treated as a new draft.
 
