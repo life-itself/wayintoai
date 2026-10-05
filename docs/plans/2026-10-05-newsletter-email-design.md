@@ -1,5 +1,9 @@
 # Way Into AI email styling
 
+> **Superseded 2026-10-05:** the first styling looked wrong; the redesigned
+> template and its rules are in [../newsletter-email-design.md](../newsletter-email-design.md).
+> This file remains as the history of the first pass.
+
 Approved direction: adapt the website blue-pencil identity to email. Paper
 #fbfbf9, ink #1b1b1d, accent #2140c4, serif prose and monospace structure.
 Use a fluid single-column presentation table capped at 640px, inline styles,

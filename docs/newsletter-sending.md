@@ -75,10 +75,9 @@ for committing and publishing these updates.
 
 ## Current automation limits
 
-Way Into AI issues use the shared CRM blue-pencil email template: paper and ink
-colours, blue links and masthead, serif prose and monospace section labels, with
-inline styles and system-font fallbacks. Other publications retain their existing
-template. The CRM currently omits the frontmatter preheader. It also binds approval to
+Way Into AI issues render through the CRM's Way Into AI email template; its
+look and rules are in [newsletter-email-design.md](newsletter-email-design.md).
+Other publications retain their existing template. The CRM currently omits the frontmatter preheader. It also binds approval to
 the entire original source file, including frontmatter. Keep that file unchanged
 from preparation through sending; update sent metadata afterward. Follow-up
 `wayintoai-94n.6` tracks preheader support and the editorial hash contract.
