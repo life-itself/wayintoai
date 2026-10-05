@@ -31,7 +31,9 @@ The same file is the site page and the email body, so the body must be plain Com
 - **Frontmatter is metadata only.** The site uses `title`/`description`/`date`; the send step strips frontmatter and uses `subject`, `preheader` and the canonical URL.
 - **No H1.** Flowershow renders `title`; the email template renders the subject.
 - **Absolute links only**: `https://wayintoai.com/ref/<slug>`, `https://wayintoai.com/posts/<slug>` (no `.md`), or the external URL. No `[[wiki links]]`, no relative paths, no MDX/HTML.
-- **Images:** at most one, absolute `https://` PNG/JPG URL (e.g. `https://wayintoai.com/assets/...`); no SVG (Gmail drops it). Optional; email clients may block images.
+- **Images:** one or two per issue, where a picture says more than a sentence: a video's thumbnail, or a one-glance diagram for One thing to try. Save each in `assets/` (JPG/PNG, at most about 1200px wide; `sips -Z 960 in.jpg --out assets/<slug>.jpg`) and also embed it on the item's canonical ref. In the issue use the absolute `https://wayintoai.com/assets/<file>` URL with descriptive alt text, on its own line directly above the item's bold headline. No SVG (Gmail drops it). Images must be pushed before the send. Email clients may block images, so the text must stand without them.
+  - YouTube thumbnail: `curl -sfL -o /tmp/t.jpg https://img.youtube.com/vi/<id>/maxresdefault.jpg` (fall back to `hqdefault.jpg`).
+  - An image the reviewer pastes into the chat is not saved to disk. Read it from the clipboard: `osascript -e 'set d to the clipboard as «class PNGf»' -e 'set f to open for access POSIX file "/tmp/clip.png" with write permission' -e 'write d to f' -e 'close access f'`. Then look at it before using it.
 - **No unsubscribe or footer text.** The send step's template adds the canonical link and unsubscribe.
 - Link every item back to the site page first (the site is the notebook; the email is the edit), external source second if useful.
 
@@ -75,9 +77,9 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
 3. **Select.** Rank: our own posts (they carry our opinion) > flagged `weekly` > refs with the biggest consequences for someone using AI at work > other refs. Keep one canonical item per story (a post beats its ref), and **one story gets at most one What mattered slot**: fold follow-on angles into that item or into The bigger picture.
    - `newsletter: standalone` → include it in the weekly. A dedicated send is a separate decision the reviewer makes; don't ask about it in the draft.
    - `STALE` flagged items → ask, don't include by default.
-   - **What mattered:** 3–5 developments. Thin week (fewer than 3 worth it): run 2 and say so in the opener, or add one archive item clearly labelled as such. Never pad.
+   - **What mattered:** 3 developments (4 at most). Fewer, shorter items beat a full list. Thin week (fewer than 3 worth it): run 2 and say so in the opener, or add one archive item clearly labelled as such. Never pad.
    - **One thing to try:** one practical thing for people **using** AI: a tool, skill, workflow, prompt, or a useful guide or reference. Not policy or news. The homepage promises one every issue. Prefer this week's items; if none fits, draw from the archive: `/use` posts, refs with a "User Experience Note", `ref/moc-best-ai-skills.md`, guides and references. Don't repeat a past pick. Prefer something a generalist can start in ten minutes. Don't claim we use it unless the repo says so.
-   - **The bigger picture:** one item or theme on work, power, policy or safety. Several related refs can be one paragraph.
+   - **The bigger picture:** one item or theme on work, power, policy or safety, in one or two sentences (about 50 words).
    - **From the log:** up to 3 other worthwhile items, one line each. Leave out bookmarks we haven't tried and anything that is only "interesting". No firehose.
 
 4. **Draft** in house voice (`docs/brand.md`): first person plural, specific. This is a **roundup, not new editorial**: report what the sources say, and use only takes already recorded in our posts and refs. Don't add new inferences, predictions or opinions; when in doubt, cut the sentence. Say "we think", "we don't know yet". Concrete numbers and examples over adjectives; no hype, doom, jargon, or digest-speak ("In this week's roundup…", "exciting", "game-changer").
@@ -88,7 +90,7 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
    - **Opener:** one or two sentences naming the week's thread. Issue 1 (or after a gap) also says what this email is, in one sentence.
    - **Sign-off:** invite replies ("Just reply to this email") and point to the log.
    - Every number, quote, date and take must come from a file in `items:`. Relative dates are from the **send date** ("on 1 September", not "three weeks ago").
-   - Target 500–800 words.
+   - **Bite-sized: a two-minute read, 300–450 words.** The email is the edit; the site holds the detail. Each What mattered item is one paragraph: the bold headline plus one or two sentences (about 50 words), then one link. If an item needs a second paragraph, cut it or move the detail to the ref. One thing to try is about 60 words, first step included. Drop a story before squeezing four into a long item.
 
    Body skeleton:
 
@@ -97,7 +99,11 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
 
    ## What mattered
 
-   **<Headline that makes the point.>** <What happened. What we think it means.> [Read more](https://wayintoai.com/...)
+   **<Headline that makes the point.>** <One or two sentences: what happened, why it matters.> [Read more](https://wayintoai.com/...)
+
+   ![<alt text>](https://wayintoai.com/assets/<image>.jpg)
+
+   **<Item with an image: picture first, then the headline.>** <…> [Watch it](https://wayintoai.com/...)
 
    ## One thing to try
 
@@ -107,7 +113,7 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
 
    ## The bigger picture
 
-   <One paragraph.>
+   <One or two sentences.>
 
    ## From the log
 
@@ -121,6 +127,8 @@ try: ref/some-tool.md       # the "One thing to try" item (also listed in items)
    - Every `https://wayintoai.com/...` link maps to an existing `ref/` or `posts/` file, and every such file is in `items:`.
    - Every number, quote and "we think" traces to a file in `items:`.
    - No paragraph over about 60 words: `awk -v RS= 'NF>60 && !/^(---|\||- )/{print NR": "NF" words"}' weekly/<file>` prints nothing (or each hit is justified). Runs of three or more comparable figures are a table.
+   - Body is 300–450 words: `awk '/^---$/{c++;next} c>=2' weekly/<file> | wc -w`. Each What mattered item is a single paragraph.
+   - Every image URL is under `https://wayintoai.com/assets/`, the file exists in `assets/`, and it has alt text.
    - Subject ≤ 55 chars and says nothing the body contradicts.
    - Tell pass: run Humanizer (`/humanizer` on the body) if installed, or check by hand for "X, not Y", rules of three, inflated importance, em-dash runs, filler.
    - Optional: have a sub-agent critique content (accuracy against sources, selection, voice) and fold in what holds up.

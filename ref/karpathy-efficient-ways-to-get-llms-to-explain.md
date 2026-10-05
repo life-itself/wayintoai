@@ -8,6 +8,9 @@ tags: [andrej-karpathy, explanation, understanding, prompting, diagrams, html, e
 
 Karpathy's escalating ladder of output formats for understanding what LLMs produce: controlled-language writing → diagrams → HTML pages → bespoke explainer videos.
 
+![ASD-STE100 (Simplified Technical English) at a glance: document structure, sentence anatomy, verb forms, dictionary entries, word-count limits and history](/assets/asd-ste100-overview.png)
+*ASD-STE100 at a glance: what "explain it in ASD-STE100" asks the model to follow.*
+
 ## Links
 
 - Tweet: https://x.com/karpathy/status/2105819303471976479

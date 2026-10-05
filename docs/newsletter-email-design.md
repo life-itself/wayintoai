@@ -24,13 +24,17 @@ here. Never hand-edit an issue's HTML.
    above.
 6. **Items:** serif body 19px/1.6 (18px on mobile). Bold lead sentence. A short
    link that ends a paragraph after a full stop ("Read more", "Our write-up")
-   becomes a mono blue call to action with `→`.
+   becomes a mono blue call to action with `→` (also after a closing quote
+   or bracket).
 7. **Tables:** a two-column table whose values are all percentages becomes a
    bar chart on a 0–100% scale; the bold row gets the blue bar, others grey.
    Other tables render as mono hairline rows. An italic-only paragraph right
    after a table becomes a small mono source caption.
-8. **Lists:** blue mono `→` bullets with a hanging indent.
-9. **Footer:** dark rule, name and promise, then "Read on the web ·
+8. **Images:** full column width with a hairline border, one or two per
+   issue, placed above the item they illustrate (rules in the weekly-roundup
+   skill).
+9. **Lists:** blue mono `→` bullets with a hanging indent.
+10. **Footer:** dark rule, name and promise, then "Read on the web ·
    wayintoai.com · Unsubscribe" (Resend unsubscribe placeholder).
 
 ## Tokens

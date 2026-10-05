@@ -265,6 +265,8 @@ of Gmail (2M emails, 150K attachments) in a single Go binary.
 - Include: technology stack, category, key features
 - Examples: `[ai-agents, platform, durable-execution]`
 
+**Images the user supplies** (pasted into chat or as files): save to `assets/<slug>.png` (a pasted image is only on the clipboard; see the weekly-roundup skill for the `osascript` one-liner), embed near the top of the ref with descriptive alt text and a one-line italic caption.
+
 **Screenshots:**
 - Only for web-based tools/platforms
 - Use screenshotit.app for automatic caching
