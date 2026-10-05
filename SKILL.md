@@ -72,14 +72,14 @@ tags: [tag1, tag2, tag3]
 **YouTube videos:** put the bare YouTube URL on its own line; Flowershow renders it as an embed. No iframe or screenshot needed.
 
 **Screenshots (REQUIRED for web content):**
-- **ALWAYS include for web-based tools, articles, tweets, or any public URL**
+- **ALWAYS include for web-based tools, articles, or any public URL — except tweets**
+- **Skip tweets (x.com / twitter.com):** X blocks screenshotit.app, which returns an "Access to x.com was denied" 403 image. Quote the tweet text instead.
 - Use screenshotit.app: `https://screenshotit.app/{url}`
 - Format: `![Description](https://screenshotit.app/https://example.com/)`
 - **Place immediately after title/tagline, BEFORE the Links section**
 - Service auto-caches, provides stable URLs
 - Advanced options: `@full`, `@mobile`, `@refresh`
 - Examples:
-  - Tweet: `![Topic](https://screenshotit.app/https://x.com/user/status/123)`
   - Website: `![Tool](https://screenshotit.app/https://dmux.ai/)`
   - Article: `![Article](https://screenshotit.app/https://anthropic.com/news/article)`
 

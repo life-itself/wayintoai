@@ -8,8 +8,6 @@ tags: [andrej-karpathy, explanation, understanding, prompting, diagrams, html, e
 
 Karpathy's escalating ladder of output formats for understanding what LLMs produce: controlled-language writing → diagrams → HTML pages → bespoke explainer videos.
 
-![Karpathy tweet on getting LLMs to explain](https://screenshotit.app/https://x.com/karpathy/status/2105819303471976479)
-
 ## Links
 
 - Tweet: https://x.com/karpathy/status/2105819303471976479
