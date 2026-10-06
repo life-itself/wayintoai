@@ -31,3 +31,9 @@ Bots learn from demonstrations and improve over time with contextual memory. Int
 ## Why Interesting
 
 Big lab ships the "AI coworker with its own computer" pattern as a product, distributed through both Grok and Cursor.
+
+## Related
+
+- [[moc-personal-agents]]
+- [[openai-dots]]
+- [[hermes-agent]]

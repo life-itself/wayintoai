@@ -74,6 +74,8 @@ Viral launch in January 2026 with testimonials describing it as:
 
 ## Related
 
+- [[moc-personal-agents]] — guide and map of always-on personal agents
+- [[hermes-agent]]
 - [[deerflow]]
 - [[alfred-portable-openclaw]]
 - [[telegram-topics-openclaw]]

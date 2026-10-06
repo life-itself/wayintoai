@@ -38,6 +38,7 @@ showEditLink: false
 <section class="wai__section">
 <h2>Recently selected</h2>
 <div class="wai__list">
+<a href="/ref/moc-personal-agents"><span class="wai__date">6 Oct 2026</span><span class="wai__title">Always-on personal AI agents: a guide</span><span class="wai__kind">understand</span></a>
 <a href="/posts/2026-09-18-typesafe-jev-system-one"><span class="wai__date">18 Sep 2026</span><span class="wai__title">Jev makes the case for AI inside ordinary software</span><span class="wai__kind">understand</span></a>
 <a href="/posts/2026-09-10-the-pace-is-the-story"><span class="wai__date">10 Sep 2026</span><span class="wai__title">This is definitely getting towards superintelligence</span><span class="wai__kind">understand</span></a>
 <a href="/posts/2026-08-26-run-multiple-threads-in-claude"><span class="wai__date">26 Aug 2026</span><span class="wai__title">How do I run multiple threads in Claude at the same time?</span><span class="wai__kind">use</span></a>
