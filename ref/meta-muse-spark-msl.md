@@ -40,3 +40,5 @@ According to the announcement:
 - [[claude-dispatch]]
 - [[openclaw]]
 - [[cloudflare-dynamic-workers]]
+
+See also: [[meta-muse-agent]], the personal agent built on Muse Spark (Sep 2026).

@@ -13,7 +13,7 @@ Anthropic's response to OpenClaw and agents: remote task assignment with compute
 
 - **Released**: March 17, 2026 (Dispatch), March 24, 2026 (Computer Use announcement)
 - **Availability**: Pro and Max subscribers on macOS
-- **Feature**: Part of Claude Cowork
+- **Feature**: Part of [[claude-cowork]]
 - **Related MOC**: [[moc-personal-agents]]
 - **CNBC Coverage**: https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html
 
