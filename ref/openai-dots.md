@@ -13,6 +13,7 @@ OpenAI's always-on personal agents: each "Dot" gets its own cloud computer and b
 
 ## Links
 
+- **Official announcement**: https://openai.com/index/introducing-dots/
 - **TechCrunch launch coverage**: https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/
 - **Engadget**: https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/
 - **Launched**: DevDay, 29 Sept 2026
