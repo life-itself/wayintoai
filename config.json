@@ -40,7 +40,15 @@
     "social": [
       {
         "label": "github",
-        "href": "https://github.com/datopian/wayintoai"
+        "href": "https://github.com/life-itself/wayintoai"
+      },
+      {
+        "label": "twitter",
+        "href": "https://twitter.com/rufuspollock"
+      },
+      {
+        "label": "substack",
+        "href": "https://substack.com/@rufuspollock"
       }
     ]
   },
