@@ -6,7 +6,9 @@ featured: true
 newsletter: standalone
 ---
 
-This week OpenAI [released 719 maths papers](/ref/openai-math-results-release), all written by an unreleased internal model. They aren't exercises. They are claimed solutions to open problems, grouped into 372 "families" of related results, and the list includes some of the biggest names in number theory and geometry.
+I studied maths at Cambridge through to graduate level and very nearly did a PhD. So this one is personal. I think maths as a discipline, in its current form, is in many ways over. If I were a graduate student today, I honestly don't know what I'd be thinking.
+
+Here's why. This week OpenAI [released 719 maths papers](/ref/openai-math-results-release), all written by an unreleased internal model. They aren't exercises. They are claimed solutions to open problems, grouped into 372 "families" of related results, and the list includes some of the biggest names in number theory and geometry.
 
 The one that stopped people in their tracks is the **quasi-Riemann hypothesis**: a proof that the Riemann zeta function has no zeros to the right of the line Re(s) = 7/8. Alex Kontorovich, a professor of mathematics at Rutgers, posted:
 
@@ -43,8 +45,6 @@ The most honest reaction I've seen came from Yuanning Zhang, a PhD student at No
 > What I'm feeling is less a judgment than a kind of vertigo. If these reported resolutions are verified, this would suggest that A.I.-assisted mathematical research is beginning to operate on an industrial scale.
 
 He compared it to the end of Truffaut's *The 400 Blows*, where the boy runs to the sea and the film ends on "a freeze frame that passes no judgment on whether this is an escape or a dead end." He doesn't think that's a bad picture of where mathematics stands.
-
-This one is personal for me. I studied maths at Cambridge through to graduate level and very nearly did a PhD. These results are a huge deal, and I think maths as a discipline, in its current form, is in many ways over. If I were a graduate student today, I honestly don't know what I'd be thinking.
 
 **Power is concentrated.** The model that produced all this isn't public. One company decides which problems it attacks, when results come out and what goes with them. Whatever you think of how OpenAI handled it, that's a lot of control over a field's agenda to sit with one lab.
 
