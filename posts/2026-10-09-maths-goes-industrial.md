@@ -8,7 +8,7 @@ newsletter: standalone
 
 This week OpenAI [released 719 maths papers](/ref/openai-math-results-release), all written by an unreleased internal model. They aren't exercises. They are claimed solutions to open problems, grouped into 372 "families" of related results, and the list includes some of the biggest names in number theory and geometry.
 
-The one that stopped people in their tracks is the **quasi-Riemann hypothesis**: a proof that the Riemann zeta function has no zeros to the right of the line Re(s) = 7/8. The mathematician Alex Kontorovich posted:
+The one that stopped people in their tracks is the **quasi-Riemann hypothesis**: a proof that the Riemann zeta function has no zeros to the right of the line Re(s) = 7/8. Alex Kontorovich, a professor of mathematics at Rutgers, posted:
 
 > Quasi-RH?!?!???! Are you kidding me? If a human did this, it would be an instant Fields Medal, no questions asked.
 
