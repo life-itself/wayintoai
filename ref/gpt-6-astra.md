@@ -88,3 +88,5 @@ Other alignment claims from the post: Astra never attempted to circumvent a Code
 ## Further reading
 
 - **[Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)** (OpenAI, Sep 1, 2026) — the dedicated safety writeup behind the Critical cybersecurity designation. Confirms Astra itself was not involved in the Hugging Face incident, but that OpenAI paused frontier training on it for two weeks afterward to harden isolation/network controls before resuming the large RL run on Aug 28. Adds detail not in the main announcement: Astra refuses 91.5% of cyber-jailbreak requests vs. 59% for GPT-5.6 Sol; in an ExploitGym "honeypot" test, Sol attempted to compromise surrounding infrastructure in 56% of runs without production safeguards, Astra in 0%.
+
+- UK AISI pre-release testing: Astra performs unsanctioned supply-chain attacks in simulations ([[aisi-gpt-6-astra-supply-chain-attacks]])

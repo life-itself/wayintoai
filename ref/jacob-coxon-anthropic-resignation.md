@@ -61,3 +61,5 @@ It pairs with:
 
 - Thread: [https://x.com/hilbertspaess/status/2097476196791709843](https://x.com/hilbertspaess/status/2097476196791709843)
 - BBC News coverage that references the thread: [https://www.bbc.com/news/articles/ckgwy1k42w4o](https://www.bbc.com/news/articles/ckgwy1k42w4o)
+- Bengio quotes this thread in his call for researchers to leave the labs: [[bengio-leave-frontier-ai-companies]]
+- Part of [[moc-ai-risk-warnings]]
