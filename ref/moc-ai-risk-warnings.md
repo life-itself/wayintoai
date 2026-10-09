@@ -28,6 +28,7 @@ Outsiders' warnings are easy to wave away as fear or ignorance. It's harder to w
 
 ## People who left
 
+- **Daniel Kokotajlo** (ex-OpenAI governance researcher; left in 2024 and refused the non-disparagement agreement): lead author of [[ai-2027|AI 2027]] (April 2025). It is a month-by-month scenario in which labs automate AI research, superintelligence arrives by late 2027, and the race ending is human extinction. It is the most widely read concrete forecast of AI risk.
 - **Miles Brundage** (ex-OpenAI Head of Policy Research and AGI Readiness): [[miles-brundage]]. "THE INDUSTRY IS NOT ON TOP OF F***ING ROGUE AIS BREAKING OUT OF SANDBOXES ALL THE TIME."
 - **Jacob Coxon** (pretraining at OpenAI, then Anthropic), September 2026: [[jacob-coxon-anthropic-resignation]]. "Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives." His thread had 112M views, and Bengio quotes him.
 - **The tracker:** [[ethical-ai-departures]] lists 46 sourced departures over safety or ethics.
