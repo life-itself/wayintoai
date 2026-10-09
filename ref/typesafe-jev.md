@@ -39,3 +39,7 @@ TypeSafe's launch pricing is $0.042 per million input tokens, with outputs free,
 A schema-valid answer can still be wrong. TypeSafe documents weaknesses in numerical tasks, indirect questions, distracting context, and adversarial input for Jev 1.13. Its advice is to retain exact computation and workflow rules in code. [Known limitations](https://docs.typesafe.ai/model-jaggedness/jev-1.13).
 
 The longer post examines the performance evidence, calibration, and implications for application design. This entry and the post reflect documentation checked on September 18, 2026; neither is a hands-on review.
+
+## Related
+
+- [[contrastive-language-models]]: an open System One alternative that reports Jev-level performance

@@ -20,6 +20,7 @@ Major discoveries and milestones where AI systems have contributed to — or ind
 - **September 8, 2026** — OpenAI announces a Lean-formalized proof that the Navier–Stokes equations can blow up in finite time — resolving one of the seven Clay **Millennium Prize Problems** (~90 years open). Produced by ~10,000 concurrent agents in ~88 hours, using an *unreleased internal model training only since August 28* that OpenAI's own chart puts at 2–3× Astra's pass rate. Contested on priority/conduct grounds by an NYU/Anthropic team (Buckmaster & Alpöge); Terence Tao warns of "strip-mining" the field. [[openai-navier-stokes-millennium-proof]]
 
 - **September 11, 2026** — 25 Fields Medallists (including Tao, Deligne, Hairer, Scholze, Smirnov, Viazovska, Zelmanov, and others) sign a declaration protesting the AI industry's rush to solve major mathematical problems as a benchmark. Argues the goals of AI companies and the mathematical community are "severely misaligned," warns of mass-producing "true/false" statements destroying the field's fertile ground, and calls out attribution/plagiarism issues from rushed AI-produced proofs. [[tao-fields-medalists-ai-mathematics-declaration]]
+- **October 7, 2026** — OpenAI releases 719 manuscripts (372 result families) from its internal model on GitHub, ~42% Lean-formalized. Headline: the **quasi-Riemann hypothesis** (zeta zero-free for Re(s) > 7/8), plus BSD for Selmer corank ≤ 1 and the Hodge conjecture for CM abelian varieties. Alex Kontorovich: "If a human did this, it would be an instant Fields Medal." Three Hodge papers withdrawn the same day over a sign error. [[openai-math-results-release]]
 
 ## Context
 
@@ -31,4 +32,6 @@ These are not AI "solving math" in the sense of finding entirely new branches or
 - [[openai-unit-distance-problem-ai-proof]] — May 2026 Erdős unit-distance disproof
 - [[openai-navier-stokes-millennium-proof]] — Sep 2026 Navier–Stokes Millennium Problem claim + priority controversy
 - [[tao-fields-medalists-ai-mathematics-declaration]] — Sep 11, 2026: 25 Fields Medallists declare "severe misalignment" of AI in mathematics
+- [[openai-math-results-release]] — Oct 7, 2026: 719 AI-produced manuscripts incl. quasi-Riemann hypothesis
+- [[proofatlas]] — LLM-ranked top 500 open maths problems, with status notes on AI resolution claims
 - [[agent-psychosis]] — the psychological dimension of human-AI interaction in expert domains
