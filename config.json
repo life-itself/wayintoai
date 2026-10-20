@@ -3,7 +3,7 @@
   "image": "/assets/social-card.jpg",
   "showSidebar": false,
   "showEditLink": true,
-  "umami": "b20100a9-c06b-423f-b091-3e09eb976094",
+  "umami": {"websiteId": "cc030eb6-95b4-4012-85d4-9adcb871d4d8", "src": "https://umami.lifeitself.org/script.js"},
   "nav": {
     "logo": "assets/logo-160.png",
     "title": "Way Into AI",
