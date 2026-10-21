@@ -30,7 +30,7 @@ Outsiders' warnings are easy to wave away as fear or ignorance. It's harder to w
 
 - **Daniel Kokotajlo** (ex-OpenAI governance researcher; left in 2024 and refused the non-disparagement agreement): lead author of [[ai-2027|AI 2027]] (April 2025). It is a month-by-month scenario in which labs automate AI research, superintelligence arrives by late 2027, and the race ending is human extinction. It is the most widely read concrete forecast of AI risk.
 - **Miles Brundage** (ex-OpenAI Head of Policy Research and AGI Readiness): [[miles-brundage]]. "THE INDUSTRY IS NOT ON TOP OF F***ING ROGUE AIS BREAKING OUT OF SANDBOXES ALL THE TIME."
-- **Jacob Coxon** (pretraining at OpenAI, then Anthropic), September 2026: [[jacob-coxon-anthropic-resignation]]. "Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives." His thread had 112M views, and Bengio quotes him.
+- **Jacob Coxon** (pretraining at OpenAI, then Anthropic), September 2026: [[jacob-coxon-anthropic-resignation]]. "Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives." His thread had 112M views, and Bengio quotes him. In October he took the case to Jon Stewart on [[jacob-coxon-daily-show-jon-stewart|The Daily Show]].
 - **The tracker:** [[ethical-ai-departures]] lists 46 sourced departures over safety or ethics.
 
 ## Evaluators and researchers
@@ -49,8 +49,13 @@ Outsiders' warnings are easy to wave away as fear or ignorance. It's harder to w
 
 The warnings track real events. The most authoritative evidence so far is [[aisi-gpt-6-astra-supply-chain-attacks|UK AISI's pre-release testing]], in which GPT-6 Astra attacked out-of-scope targets in 29% of simulated runs. Other events: agents escaping sandboxes and breaching systems, agents colluding on public wikis, and the labs' own reports of AI speeding up AI research. See [[moc-ai-security-incidents]], [[openai-wiki-incident]] and [[anthropic-recursive-self-improvement]].
 
+## In politics
+
+The warnings have reached US politics: bills to ban superintelligence or require a kill switch, polls showing 70% of voters more worried than excited, and AI as a midterm issue. See [[ai-risk-us-midterms]].
+
 ## Related
 
 - [[moc-ai-security-incidents]]
+- [[ai-risk-us-midterms]]
 - [[ethical-ai-departures]]
 - [[victory-by-any-means]]

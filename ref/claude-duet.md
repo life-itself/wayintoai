@@ -47,6 +47,8 @@ Anthropic's own caveats: it "might misread a thread or miscalibrate what's urgen
 
 Duet is Anthropic's entry in the crowded [[moc-personal-agents|always-on personal agent]] market. It follows xAI's [[grok-bot]] (August), Meta's [[meta-muse-agent|Muse]] (September) and OpenAI's [[openai-dots]] (29 September). It has the same shape as the others: a hosted computer per user, your context, broad tool access and a human checkpoint. Its distinctive bets are being **proactive** and **quiet**. It pings you, but only every few hours.
 
+The idea isn't new. With Duet, Anthropic is catching up with the others on the message-first kind of agent, and the more interesting story is the wave as a whole (see the [[moc-personal-agents|guide]]).
+
 It is also a separate product from [[claude-cowork]], which is still the "work on my files and tools while I watch" agent. Duet is the one you *message*, closer to [[openclaw]] than to Claude Code.
 
 ## Related
