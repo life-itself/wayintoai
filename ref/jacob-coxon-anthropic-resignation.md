@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-21
+newsletter_url: https://wayintoai.com/weekly/2026-w43
 created: 2026-09-09
 author: Jacob Coxon (@hilbertspaess)
 tags: [ai-safety, ai-risk, existential-risk, alignment, recursive-self-improvement, coordination, pacing-the-frontier, anthropic, openai, resignation]

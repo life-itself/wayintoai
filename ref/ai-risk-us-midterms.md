@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-21
+newsletter_url: https://wayintoai.com/weekly/2026-w43
 created: 2026-10-21
 tags: [ai-risk, ai-policy, us-politics, midterms, congress, polls, regulation, superintelligence, jacob-coxon]
 ---

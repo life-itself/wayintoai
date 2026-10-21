@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-21
+newsletter_url: https://wayintoai.com/weekly/2026-w43
 title: AI is the interface, apps are storage
 description: We used to work in apps, each with its own screens. Now we work in the AI, which builds the views we need, and apps become storage that people and AI read and write.
 date: 2026-07-15

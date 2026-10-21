@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-21
+newsletter_url: https://wayintoai.com/weekly/2026-w43
 title: "Try it: two exercises"
 description: Put the guide into practice with your own AI, with a worked example for each.
 order: 3
