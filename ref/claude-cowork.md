@@ -41,3 +41,4 @@ It's Anthropic's version of the personal-agent idea, built outward from the codi
 - [[moc-personal-agents]]
 - [[claude-dispatch]]
 - [[claude-projects]]
+- [[claude-duet]]: Anthropic's separate, message-first personal agent (Oct 2026)

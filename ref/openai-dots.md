@@ -41,3 +41,4 @@ This is the commercial, hosted take on the [[openclaw]] idea, and OpenClaw's cre
 - [[openclaw]]
 - [[hermes-agent]]
 - [[grok-bot]]
+- [[claude-duet]]

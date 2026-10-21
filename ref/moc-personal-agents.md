@@ -1,12 +1,12 @@
 ---
 created: 2026-10-06
 featured: true
-tags: [moc, guide, personal-agents, always-on, openclaw, hermes-agent, openai-dots, grok-bot, gemini-spark, claude-cowork, meta-muse]
+tags: [moc, guide, personal-agents, always-on, openclaw, hermes-agent, openai-dots, claude-duet, grok-bot, gemini-spark, claude-cowork, meta-muse]
 ---
 
 # Always-on personal AI agents: a guide
 
-**TL;DR:** An *always-on personal agent* is an AI that lives on a computer (yours or the vendor's), keeps running when you walk away, remembers you, and is something you *message* rather than *open*. OpenClaw made the idea go viral in January 2026, and Hermes became the open-source favourite. Over the year every big lab shipped a hosted version: Claude Cowork, Gemini Spark, xAI's Grok Bot, Meta's Muse and, most recently, OpenAI's Dots. This page explains the idea, compares the options, tells the story so far and maps our entries.
+**TL;DR:** An *always-on personal agent* is an AI that lives on a computer (yours or the vendor's), keeps running when you walk away, remembers you, and is something you *message* rather than *open*. OpenClaw made the idea go viral in January 2026, and Hermes became the open-source favourite. Over the year every big lab shipped a hosted version: Claude Cowork, Gemini Spark, xAI's Grok Bot, Meta's Muse, OpenAI's Dots and, most recently, Anthropic's Claude Duet (21 October). This page explains the idea, compares the options, tells the story so far and maps our entries.
 
 ![OpenClaw: the project that started the wave](https://screenshotit.app/https://openclaw.ai)
 
@@ -16,7 +16,7 @@ Everything is an "agent" now, so the word alone tells you little. Claude Code is
 
 | | Chatbot | Coding agent | **Always-on personal agent** |
 |---|---|---|---|
-| Examples | ChatGPT, Claude.ai | Claude Code, Codex, Cursor | OpenClaw, Hermes, Dots, Grok Bot |
+| Examples | ChatGPT, Claude.ai | Claude Code, Codex, Cursor | OpenClaw, Hermes, Dots, Duet |
 | How you use it | Open a chat, ask, read | Open a session, drive it on a task | **Message it** (Telegram, Slack, WhatsApp, email…) and leave |
 | Runs when you're away? | No | Only while the session is open | **Yes**: background jobs, schedules, "heartbeats" |
 | Memory | Mostly per-chat | Per-project files (CLAUDE.md) | **Of you**, across everything, growing over time |
@@ -40,6 +40,7 @@ The big split is **self-hosted and open** versus **hosted and commercial**.
 | [[grok-bot]] | xAI | Aug 2026 | Vendor cloud computer | Grok app, Cursor | SuperGrok / Cursor tiers | Learns from demonstration; sold via Cursor too |
 | [[meta-muse-agent]] | Meta | Sep 2026 (US) | Meta "Secure VM" | Muse app, web, WhatsApp | Mostly free; ~$20/$100 tiers | Mass-market errands; a separate "Sentinel" agent approves anything sent out |
 | [[openai-dots]] | OpenAI | 29 Sep 2026 | Vendor cloud computer | ChatGPT, Codex, Slack, Teams | ChatGPT Pro / Business Premium | Pursues goals; "teams of Dots" promised |
+| [[claude-duet]] | Anthropic | 21 Oct 2026 (waitlist, US) | Vendor cloud computer | Duet app (iOS, Android), claude.ai | In Pro and Max plans | **Proactive but quiet**: morning brief, checks in every few hours, asks before acting |
 
 Not covered yet: Microsoft Copilot Autopilot (private preview in M365) and the many OpenClaw forks (NanoClaw, ZeroClaw, PicoClaw, IronClaw…).
 
@@ -50,11 +51,12 @@ Not covered yet: Microsoft Copilot Autopilot (private preview in M365) and the m
 | ![Hermes Agent](https://screenshotit.app/https://hermes-agent.nousresearch.com/) **Hermes Agent** | ![Claude Cowork](https://screenshotit.app/https://claude.com/product/cowork) **Claude Cowork** |
 | ![Gemini Spark](https://screenshotit.app/https://thenextweb.com/news/google-gemini-spark-agentic-assistant-gmail-io-2026) **Gemini Spark** | ![Grok Bot](https://screenshotit.app/https://x.ai/news/introducing-grok-bot) **Grok Bot** |
 | ![Muse](https://screenshotit.app/https://muse.ai) **Meta Muse** | ![OpenAI Dots](https://screenshotit.app/https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/) **OpenAI Dots** |
+| ![Claude Duet](https://screenshotit.app/https://claude.com/product/claude-duet) **Claude Duet** | |
 
 ## How to choose
 
 - **You want control, privacy, any model, and you're happy tinkering:** Hermes. It's the current open-source default, with safer defaults and more active use than OpenClaw. Expect weeks before the learning loop pays off.
-- **You want it inside the tools you already use:** pick the one from your ecosystem: Gemini Spark for Google Workspace, Dots for ChatGPT, Slack and Teams, Cowork if you already pay for Claude, Muse if you live in WhatsApp and want errands done for free.
+- **You want it inside the tools you already use:** pick the one from your ecosystem: Gemini Spark for Google Workspace, Dots for ChatGPT, Slack and Teams, Duet (or Cowork) if you already pay for Claude, Muse if you live in WhatsApp and want errands done for free.
 - **You mostly code:** you may not need one. A well-tuned coding agent (Claude Code + skills + a task tracker) already has much of the "memory", and the personal-agent pitch adds less. Remote access ([[claude-dispatch]]) and scheduled runs cover most of the gap.
 - **Security:** these agents hold your email, calendar and credentials, and act without you watching. OpenClaw's skills marketplace was hit by malware, and it had over 130 CVEs by April 2026. Start with read-only access and add permissions slowly. See [[moc-ai-security-incidents]].
 
@@ -88,12 +90,13 @@ The labs absorbed the idea and removed the setup:
 - **11 Aug**: xAI's [[grok-bot]]: agent "teammates" with their own cloud computers, also sold through Cursor
 - **8 Sep**: Meta's [[meta-muse-agent|Muse]]: free, mass-market, with a separate approval agent
 - **29 Sep**: OpenAI's [[openai-dots]] at DevDay: always-on agents that pursue goals, from the company that hired OpenClaw's creator
+- **21 Oct**: Anthropic's [[claude-duet]]: a separate, proactive app that briefs you each morning and works in its own cloud computer
 
 The hosted products have converged on one shape: **a hosted computer per user, persistent context, broad tool access, and a human checkpoint before risky actions.** They answer the open-source projects' weaknesses (setup, security, reliability) and give up their strengths: your machine, your data, any model.
 
 ### What it tells us
 
-- **The idea was right; the packaging wasn't.** OpenClaw showed real demand for an assistant you text and that keeps working. Within nine months every major lab had shipped one.
+- **The idea was right; the packaging wasn't.** OpenClaw showed real demand for an assistant you text and that keeps working. Within ten months every major lab had shipped one: four of them (xAI, Meta, OpenAI, Anthropic) in ten weeks from August to October.
 - **Trust is now the main constraint.** Capability is similar across products. What differs is permissions, approval steps, isolation (Meta's Sentinel, Microsoft's Agent 365 controls) and who holds your data.
 - **Open source moved from novelty to niche.** Hermes thrives among people who want control and cheap or local models. Most users will probably get theirs from a lab.
 
@@ -111,6 +114,7 @@ The hosted products have converged on one shape: **a hosted computer per user, p
 
 - [[claude-cowork]]: Anthropic's agent for files, tools and scheduled work
 - [[claude-dispatch]]: hand Cowork tasks from your phone
+- [[claude-duet]]: Anthropic's proactive personal agent app
 - [[gemini-spark]]: Google's 24/7 agent inside Workspace
 - [[grok-bot]]: xAI's cloud-computer agent "teammates"
 - [[meta-muse-agent]]: Meta's free errand-running agent
