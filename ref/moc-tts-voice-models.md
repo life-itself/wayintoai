@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-13
+newsletter_url: https://wayintoai.com/weekly/2026-w42
 created: 2026-10-08
 newsletter: weekly
 tags: [moc, tts, text-to-speech, voice, open-source, local-models, voice-cloning]

@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-13
+newsletter_url: https://wayintoai.com/weekly/2026-w42
 created: 2026-10-06
 featured: true
 tags: [moc, guide, personal-agents, always-on, openclaw, hermes-agent, openai-dots, claude-duet, grok-bot, gemini-spark, claude-cowork, meta-muse]

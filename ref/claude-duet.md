@@ -9,7 +9,9 @@ tags: [launch, anthropic, claude, personal-agents, always-on, proactive, cloud-c
 
 Anthropic's proactive personal agent: a separate app where Claude briefs you each morning, does tasks in its own cloud computer while you're away, and asks before it sends, pays, signs or deletes anything.
 
-![Claude Duet product page](https://screenshotit.app/https://claude.com/product/claude-duet)
+![Claude Duet product page: "Get back to what needs you"](/assets/claude-duet-2026-10-21.jpg)
+
+*The Duet product page on launch day, 21 October 2026.*
 
 ## Links
 

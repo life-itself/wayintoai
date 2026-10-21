@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-13
+newsletter_url: https://wayintoai.com/weekly/2026-w42
 created: 2026-10-11
 author: Anthropic
 newsletter: weekly

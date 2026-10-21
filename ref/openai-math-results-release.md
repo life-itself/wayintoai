@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-13
+newsletter_url: https://wayintoai.com/weekly/2026-w42
 created: 2026-10-09
 author: OpenAI
 tags: [ai, mathematics, openai, proofs, lean, riemann-hypothesis, hodge-conjecture, birch-swinnerton-dyer, reasoning-models, open-research]
