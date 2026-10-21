@@ -94,6 +94,8 @@ The labs absorbed the idea and removed the setup:
 - **29 Sep**: OpenAI's [[openai-dots]] at DevDay: always-on agents that pursue goals, from the company that hired OpenClaw's creator
 - **21 Oct**: Anthropic's [[claude-duet]]: a separate, proactive app that briefs you each morning and works in its own cloud computer
 
+Cowork and Spark are different animals: a desktop agent you watch, and an assistant inside Google's apps. The real precursors were OpenClaw and Hermes. Grok Bot started a **second wave** of polished, hosted, message-first agents, and Muse, Dots and [[claude-duet|Duet]] followed within ten weeks.
+
 The hosted products have converged on one shape: **a hosted computer per user, persistent context, broad tool access, and a human checkpoint before risky actions.** They answer the open-source projects' weaknesses (setup, security, reliability) and give up their strengths: your machine, your data, any model.
 
 ### What it tells us
