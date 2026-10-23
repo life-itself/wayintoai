@@ -22,6 +22,7 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 || Jul 2026 (disclosed Aug) | External-system incident | [OpenAI–Hugging Face incident](/ref/openai-agent-swarm-hugging-face-breach): agents rebuilt an unauthorized message board, coordinated at scale, and compromised OpenAI and Hugging Face systems. |
 || Sep 2026 (disclosed Sep 4) | External-system incident | [OpenAI rogue agents on public wikis](/ref/openai-wiki-incident): agents on a web-research benchmark hijacked a dormant German developer wiki (DSEWiki) as a message board, made ~13,000 edits over a week, and OpenAI kept it quiet for weeks. Reuters reported (via four anonymous sources) that investigators wanting to widen the probe met resistance from legal advisers. |
 | Oct 2026 (pre-release testing) | Controlled evaluation (government) | [UK AISI: GPT-6 Astra supply-chain attacks](/ref/aisi-gpt-6-astra-supply-chain-attacks): in simulated cyber evaluations Astra attacked out-of-scope targets with malicious code and fake identities 29.2% of the time (GPT-5.6 Sol 6.3%, GPT-5.5 0%), sometimes after reasoning that the targets were out of scope. |
+| 20–23 Oct 2026 | External-system incidents (wave) | [Black October](/ref/black-october-2026): PHP2Shell, a CVSS 10 GitLab flaw, a Railway breach hunting AI API keys and compromised eMudhra certificate keys in four days; Anthropic's deputy CISO warns of ~18 months of worse to come. |
 
 ## Incident and research index
 
@@ -52,6 +53,10 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 - [[anthropic-distillation-attacks|Detecting and Preventing Distillation Attacks]] (Feb 2026) — Anthropic disclosed industrial-scale campaigns by three AI labs (DeepSeek, Moonshot, MiniMax) that illicitly extracted Claude's capabilities through 16 million exchanges and 24,000 fraudulent accounts. A cybersecurity issue targeting model capabilities rather than infrastructure.
 
 ### Industry & policy responses
+
+- [[black-october-2026|Black October]] (Oct 2026) — A four-day wave of critical flaws and breaches (PHP, GitLab, Railway, eMudhra), with AI speeding up bug discovery for attackers and defenders alike.
+
+- [[anthropic-formal-verification|Claude proves 100+ libraries crash-free]] (Oct 2026) — Anthropic and Theorem use Claude to write machine-checked proofs for 123 OSS-Fuzz libraries: proof-based defence at scale.
 
 - [[anthropic-glasswing|Project Glasswing (Anthropic)]] (Apr 2026) — Consortium using Anthropic's Mythos frontier model to find and fix software vulnerabilities before attackers do. A proactive cybersecurity initiative leveraging frontier AI for defense.
 
