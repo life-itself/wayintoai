@@ -23,12 +23,12 @@ Anthropic studied its own staff to see what an AI-saturated workplace looks like
 
 Anthropic is a leading indicator: it has rebuilt its workflows around AI faster than almost anyone. The report draws on internal data on headcount, agent use, output, surveys, calendars, Slack and hiring scorecards, plus 17 interviews.
 
-The headline is the speed. In February 2026, the agents employees ran themselves worked about 0.13 hours per human work-hour (read off the chart). By August it was 6: roughly 45 times more in seven months. For research teams it went from about 0.2 to 19, close to 100 times. Add the autonomous agent fleets and agents passed humans in March.
+The headline is the speed. In February 2026, staff's agents worked about a tenth as many hours as the staff did. By August they worked six times as many. In research teams it went from a fifth to 19 times: nearly 100x in seven months.
 
 | Measure | Then | Now |
 |---|---|---|
-| Agent hours per human hour, all staff | ~0.13 (Feb 2026, chart-read) | 6 (Aug 2026) |
-| Agent hours per human hour, research teams | ~0.2 (Feb 2026, chart-read) | 19 (Aug 2026) |
+| Agent hours per human hour, all staff | ~0.13 (Feb 2026) | 6 (Aug 2026) |
+| Agent hours per human hour, research teams | ~0.2 (Feb 2026) | 19 (Aug 2026) |
 | Code commits per engineer | 1x | 5x (6 months later) |
 | Junior share of technical hires | 27% (early 2025) | 9% (2026) |
 | Coding sessions per month, non-technical staff | 2 (Aug 2025) | 90 (May 2026) |
