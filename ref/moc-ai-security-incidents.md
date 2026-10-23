@@ -54,6 +54,8 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 
 ### Industry & policy responses
 
+- [[openai-fires-safety-researchers|OpenAI fires three safety researchers]] (Oct 2026) — Korbak, Balesni and Wang fired for "mishandling sensitive information" after OpenAI checked their Signal chats with outside researcher Ryan Greenblatt; he says the accusations are false.
+
 - [[black-october-2026|Black October]] (Oct 2026) — A four-day wave of critical flaws and breaches (PHP, GitLab, Railway, eMudhra), with AI speeding up bug discovery for attackers and defenders alike.
 
 - [[anthropic-formal-verification|Claude proves 100+ libraries crash-free]] (Oct 2026) — Anthropic and Theorem use Claude to write machine-checked proofs for 123 OSS-Fuzz libraries: proof-based defence at scale.

@@ -25,6 +25,7 @@ Map of Content for picking a local, open-weights text-to-speech model as of Octo
 | | [OmniVoice](https://github.com/k2-fsa/OmniVoice) (k2-fsa / Xiaomi) | [HF](https://huggingface.co/k2-fsa/OmniVoice) | Use it if you need more languages (600+). It tops the tts-bench cloning votes but can drop words. |
 | ~2B | ★ [VoxCPM2](https://github.com/OpenBMB/VoxCPM) (OpenBMB) | [HF](https://huggingface.co/openbmb/VoxCPM2) | 2B, Apache 2.0, 30 languages, 48 kHz output. Can design a voice from a text description. |
 | Largest / best quality | ★ [Fish Audio S2 Pro](https://fish.audio/s2/) | [HF](https://huggingface.co/fishaudio/s2-pro) | The [Fish Audio Research License](https://huggingface.co/fishaudio/s2-pro/blob/main/LICENSE.md) only allows research and non-commercial use. Commercial use needs a separate licence. |
+| | [Fish Audio Drama 3](https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/) (new, 13 Oct 2026) | [HF](https://huggingface.co/fishaudio/drama-3) | 35B mixture-of-experts (~3B active), 83 languages, up to 16 speakers. You direct the delivery in brackets ("read it like you're fighting back tears"). Tops the Artificial Analysis TTS leaderboard (Elo 1,243). Fish Audio Community Licence; needs a ~48 GB GPU. |
 | Not recommended | [Higgs TTS 3](https://www.boson.ai/blog/higgs-tts-3) (Boson AI) | [HF](https://huggingface.co/bosonai/higgs-tts-3-4b) | 4B, research/non-commercial licence. |
 
 Older models such as **Bark** and **XTTS** are no longer the standard.
