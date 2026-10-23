@@ -1,6 +1,5 @@
 ---
 created: 2026-10-23
-newsletter: weekly
 tags: [openai, ai-safety, whistleblowing, metr, chain-of-thought, monitorability, lab-governance]
 ---
 
