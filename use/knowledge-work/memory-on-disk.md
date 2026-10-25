@@ -33,7 +33,7 @@ A common habit is to keep one session going for a topic, week after week, so the
 
 ## What to do
 
-- **File as you go.** When something gets done, decided or learned, say: "Write that down." The AI updates the task, plan or reference note. This helps even within the session: a clean file is easier to reread than a long conversation.
+- **File as you go.** When something gets done, decided or learned, say: "Write that down." File what you've worked out, not the working papers: a briefing for the next project, how the design works, key decisions, a log you correct over time. This helps even within the session: a clean file is easier to reread than a long conversation.
 - **Start fresh sessions.** Open a new session for each piece of work, in the right cabinet (the folder for that area). It reads the files and picks up where the last one left off.
 - **Land the plane.** At the end, update the tasks and plans and say where to start next time.[^landing]
 - **Make fresh starts quick and easy.** Over time, build the set-up that lets any new session start well: a clear folder for each area, a note inside the door (`AGENTS.md`) and a task board.
