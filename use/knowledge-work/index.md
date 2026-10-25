@@ -12,6 +12,8 @@ How to organise your work so an AI can find its way around it, and then how to w
 <li><a href="/use/knowledge-work/try-it"><span class="kw-steps__n">03</span><span class="kw-steps__t">Try it: two exercises</span><span class="kw-steps__m">with your own AI</span></a></li>
 </ol>
 
+**Notes from practice** (first drafts, open to change): [The desk isn't the cabinet: your AI's memory is its files](/use/knowledge-work/memory-on-disk).
+
 **For technical readers:** [Where to keep API keys so your AI agents can use them on every machine](/use/knowledge-work/secrets-for-agents), a tested recipe.
 
 A first version, drawn from how we work at [Life Itself](https://lifeitself.org) and improved in public. More chapters will follow.
