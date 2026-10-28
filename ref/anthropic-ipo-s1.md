@@ -15,6 +15,10 @@ On 26 October 2026 Anthropic filed its S-1 to list on Nasdaq as ANT. Backers are
 
 ![Anthropic: S-1 announcement](https://screenshotit.app/https://www.anthropic.com/news/s1-sec)
 
+![[cnn-anthropic-s1.mp4]]
+
+*A “Don’t Look Up” moment: is this real, or an outtake? [Video via Ori Nagel on X](https://x.com/ONagel33303/status/2115219343894356006).*
+
 ## Links
 
 - **Announcement**: https://www.anthropic.com/news/s1-sec (26 Oct 2026; says little beyond the filing itself)
