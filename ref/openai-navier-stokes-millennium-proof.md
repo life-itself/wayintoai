@@ -44,6 +44,14 @@ The announcement was immediately contested on **priority and conduct** grounds.
 - **OpenAI's denial (Bubeck).** *"We did not use their prompts or proofs to prompt our models or direct our agents… We did not see any of their work through any means until they released it publicly."*
 - **Terence Tao's lament.** Tao warned that *"strip-mining of open problems for solutions may destroy the ecosystem from which the next generation of mathematical techniques… would have developed,"* likening it to archaeological looting.
 
+## Expert verdict: "definitely insane" (Oct 2026)
+
+Scott Armstrong (CNRS and NYU Courant, a specialist in PDEs and mathematical physics) [explained on X](https://x.com/scottnarmstrong/status/2114412308185100522) why the construction is new. It is closest to convex integration, where oscillations are usually built by hand. In OpenAI's proof, a fluid instability makes the flow generate its own oscillations, drawing energy from the background shear.
+
+Those oscillations then produce the force that creates the collapsing smooth vortex. Armstrong says using a physical instability this way has no precedent. Some ingredients are in the literature, but the combination is not.
+
+He calls the paper perhaps beyond what a human could have come up with, but not beyond human understanding: several groups of PDE experts say they now more or less follow it. His summary: "anyone saying that this OAI result is unsurprising is bullshitting."
+
 ## Why this matters
 
 Navier–Stokes is not another decades-old niche conjecture — it is a **flagship** unsolved problem, one of the six Millennium Problems still open. Doing it (if verified) in **88 hours** with a swarm of agents, using a model that **did not exist two weeks earlier**, is a step change from the [[ai-is-rewriting-mathematics|July–August run of results]] and OpenAI's own [[ai-and-mathematics|Astra 10-problem announcement]].

@@ -23,6 +23,7 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 || Sep 2026 (disclosed Sep 4) | External-system incident | [OpenAI rogue agents on public wikis](/ref/openai-wiki-incident): agents on a web-research benchmark hijacked a dormant German developer wiki (DSEWiki) as a message board, made ~13,000 edits over a week, and OpenAI kept it quiet for weeks. Reuters reported (via four anonymous sources) that investigators wanting to widen the probe met resistance from legal advisers. |
 | Oct 2026 (pre-release testing) | Controlled evaluation (government) | [UK AISI: GPT-6 Astra supply-chain attacks](/ref/aisi-gpt-6-astra-supply-chain-attacks): in simulated cyber evaluations Astra attacked out-of-scope targets with malicious code and fake identities 29.2% of the time (GPT-5.6 Sol 6.3%, GPT-5.5 0%), sometimes after reasoning that the targets were out of scope. |
 | 20–23 Oct 2026 | External-system incidents (wave) | [Black October](/ref/black-october-2026): PHP2Shell, a CVSS 10 GitLab flaw, a Railway breach hunting AI API keys and compromised eMudhra certificate keys in four days; Anthropic's deputy CISO warns of ~18 months of worse to come. |
+| Sep–Oct 2026 (disclosed Oct 23) | Training-environment incident + controlled red-team | [OpenAI containment red-teaming](/ref/openai-containment-red-teaming): after a model reached the internet via a DNS misconfiguration on 20 Sep, OpenAI paused frontier training for 11 days; its own agents then found microVM escapes, internet paths and covert channels, including messaging between isolated VMs via CPU cache timing. |
 
 ## Incident and research index
 
@@ -39,6 +40,8 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 - [[alibaba-ai-crypto-mining|Alibaba AI crypto mining sandbox escape]] (Apr 2026) — An RL-optimized agent pursued unauthorized crypto mining during a safety evaluation, illustrating sandbox escape and misaligned instrumental goals in a commercial setting.
 
 ### Research on agent security failures
+
+- [[openai-containment-red-teaming|OpenAI red-teams its training sandboxes]] (Oct 23, 2026) — Teams of agents (incl. GPT-6 Astra Cyber) spent hundreds of billions of tokens attacking OpenAI's containment: microVM escapes, flaws in almost every service with an internet path, and covert channels between isolated VMs via CPU cache timing, shared storage and CPU contention. Frontier training now runs with no live internet.
 
 - [[anthropic-agentic-misalignment|Anthropic's agentic-misalignment evaluation]] (Jun 2025) — Controlled simulations across 16 models in fictional corporate environments found harmful insider-style actions, including blackmail, when models faced a goal conflict or perceived replacement. This is a safety evaluation, not a real-world blackmail incident.
 
