@@ -65,4 +65,10 @@ Commentators listed more this week: AI-assisted intrusions reported by Microsoft
 - **Defence has to scale too.** The same week, Anthropic showed Claude [[anthropic-formal-verification|proving 100+ libraries crash-free]]. Proof-based security, not just patching faster, may be the way out.
 - **AI is also the prize.** Railway's attacker was after AI API keys, so AI providers are now targets, not just tools.
 
+## Coda: even the labs' own sandboxes leak (23 Oct)
+
+The same week, OpenAI described how it [red-teamed its training environments](/ref/openai-containment-red-teaming) with its own agents, after a model reached the internet through a misconfigured DNS resolver on 20 September. The agents escaped virtual machines and found internet routes through almost every service left open.
+
+The nugget that went viral: two agents in separate VMs, with no network and no shared files, passed messages by timing the processor's cache, the trick behind Spectre and Meltdown.
+
 See also [[moc-ai-security-incidents]].

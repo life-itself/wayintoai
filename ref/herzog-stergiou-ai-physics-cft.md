@@ -4,9 +4,12 @@ author: Christopher Herzog, Andreas Stergiou (King's College London)
 tags: [ai-for-science, physics, theoretical-physics, conformal-field-theory, ai-agents, research-automation, chatgpt, claude]
 ---
 
-# AI agents pick, solve and write up a physics paper
+# AI is already superhuman in physics: agents pick, solve and write up a paper
 
 Two King's College London theoretical physicists asked ChatGPT and Claude to choose a question worth a Physical Review Letters paper, do the analysis and write it up. The agents did all of it, including the original idea. The humans spent two weeks checking it.
+
+> **Rufus's note (2026-10-26):**
+> AI superhuman in physics already. The image below is the key part of what happened. — Rufus Pollock
 
 ![LinkedIn post by Christopher Herzog about the AI-driven conformal field theory paper](/assets/herzog-stergiou-ai-cft-linkedin.png)
 

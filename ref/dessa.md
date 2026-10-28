@@ -8,11 +8,14 @@ tags: [voice, speech-to-speech, full-duplex, audio-model, block, local-ai, apple
 
 Block's AI research lab trained a speech-to-speech model from scratch on recorded human conversation, with no text at all. It is full-duplex: it listens and talks at the same time, with overlaps, laughter and "yeah" backchannels. The samples sound very human.
 
+> **Rufus's note (2026-10-25):**
+> Very realistic sounding (listen to the samples on the page) and trained only on human speech. Useful in itself, but also a demo of what you can now do: trained on one rack, not a cluster. — Rufus Pollock
+
 ![Dessa – the conversation model trained only on speech](https://screenshotit.app/https://block.xyz/dessa)
 
 ## Links
 
-- **Page with audio samples**: https://block.xyz/dessa (released c. 24 Oct 2026)
+- **Page with audio samples**: https://block.xyz/dessa (released 23 Oct 2026)
 - **More recordings**: [Ragavan Thurairatnam on X](https://x.com/RagavanThurair)
 - **Discussion**: [X trending summary](https://x.com/i/trending/2113698647234015512)
 

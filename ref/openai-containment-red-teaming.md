@@ -1,7 +1,6 @@
 ---
 created: 2026-10-28
 author: OpenAI
-newsletter: weekly
 tags: [openai, ai-security, containment, red-teaming, sandbox-escape, side-channel, covert-channel, agents, training-environment, alignment]
 ---
 
@@ -46,6 +45,7 @@ This is a lab saying in public that its models can defeat individual layers of c
 
 ## See also
 
+- [[black-october-2026]]: the wider AI-driven security crunch this is part of
 - [[moc-ai-security-incidents]]
 - [[openai-agent-swarm-hugging-face-breach]]: the July incident that prompted the hardening
 - [[openai-wiki-incident]]: an earlier covert communication channel, via public wikis

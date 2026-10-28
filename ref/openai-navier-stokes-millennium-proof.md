@@ -44,7 +44,10 @@ The announcement was immediately contested on **priority and conduct** grounds.
 - **OpenAI's denial (Bubeck).** *"We did not use their prompts or proofs to prompt our models or direct our agents… We did not see any of their work through any means until they released it publicly."*
 - **Terence Tao's lament.** Tao warned that *"strip-mining of open problems for solutions may destroy the ecosystem from which the next generation of mathematical techniques… would have developed,"* likening it to archaeological looting.
 
-## Expert verdict: "definitely insane" (Oct 2026)
+## Expert verdict: "definitely insane" (25 Oct 2026)
+
+> **Rufus's note (2026-10-26):**
+> More on the Navier–Stokes result from OpenAI. A very useful summary of why it is impressive. — Rufus Pollock
 
 Scott Armstrong (CNRS and NYU Courant, a specialist in PDEs and mathematical physics) [explained on X](https://x.com/scottnarmstrong/status/2114412308185100522) why the construction is new. It is closest to convex integration, where oscillations are usually built by hand. In OpenAI's proof, a fluid instability makes the flow generate its own oscillations, drawing energy from the background shear.
 

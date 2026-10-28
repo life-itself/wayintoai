@@ -6,9 +6,12 @@ newsletter: weekly
 tags: [anthropic, ipo, s-1, finance, revenue, public-benefit-corporation, long-term-benefit-trust, governance, ai-industry]
 ---
 
-# Anthropic files to go public
+# Anthropic files for IPO at a ~$2 trillion valuation
 
-On 26 October 2026 Anthropic filed its S-1 to list on Nasdaq under the ticker ANT. It is reported to be seeking a valuation of about $2 trillion. The filing shows revenue growing more than tenfold a year, and losses swollen by its own rising valuation.
+On 26 October 2026 Anthropic filed its S-1 to list on Nasdaq as ANT. Backers are reported to be targeting a valuation of at least $2 trillion, roughly double the $965 billion of its last private round in May. The filing shows revenue growing more than tenfold a year.
+
+> **Rufus's note (2026-10-26):**
+> Anthropic files for IPO at a $2tn valuation. The announcement has nothing in it; the detail is in the actual filing. — Rufus Pollock
 
 ![Anthropic: S-1 announcement](https://screenshotit.app/https://www.anthropic.com/news/s1-sec)
 
@@ -17,6 +20,16 @@ On 26 October 2026 Anthropic filed its S-1 to list on Nasdaq under the ticker AN
 - **Announcement**: https://www.anthropic.com/news/s1-sec (26 Oct 2026; says little beyond the filing itself)
 - **The filing (S-1)**: [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 - **Discussion**: [X trending summary](https://x.com/i/trending/2114707243694473655)
+
+## Valuation
+
+| Measure | Figure | Source |
+|---|---|---|
+| Last private round (Series H, May 2026) | $965bn, raising $65bn | Press reports |
+| IPO target reported before filing | at least $2tn | [StartupHub](https://www.startuphub.ai/news/anthropic-2-trillion-ipo-valuation-target-2026-08-25), 36Kr (Aug 2026) |
+| X summary of the filing | over $1.5tn, possibly raising $100bn | [X trending](https://x.com/i/trending/2114707243694473655) |
+
+The S-1 itself sets no price yet: share count and price range are to come, so the final valuation is not fixed.
 
 ## The numbers
 
