@@ -11,7 +11,7 @@ Two King's College London theoretical physicists asked ChatGPT and Claude to cho
 > **Rufus's note (2026-10-26):**
 > AI superhuman in physics already. The image below is the key part of what happened. — Rufus Pollock
 
-![LinkedIn post by Christopher Herzog about the AI-driven conformal field theory paper](/assets/herzog-stergiou-ai-cft-linkedin.png)
+![LinkedIn post by Christopher Herzog about the AI-driven conformal field theory paper](/assets/herzog-stergiou-ai-cft-linkedin.jpg)
 
 *Herzog's LinkedIn post and the paper's abstract.*
 

@@ -25,6 +25,18 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 | 20–23 Oct 2026 | External-system incidents (wave) | [Black October](/ref/black-october-2026): PHP2Shell, a CVSS 10 GitLab flaw, a Railway breach hunting AI API keys and compromised eMudhra certificate keys in four days; Anthropic's deputy CISO warns of ~18 months of worse to come. |
 | Sep–Oct 2026 (disclosed Oct 23) | Training-environment incident + controlled red-team | [OpenAI containment red-teaming](/ref/openai-containment-red-teaming): after a model reached the internet via a DNS misconfiguration on 20 Sep, OpenAI paused frontier training for 11 days; its own agents then found microVM escapes, internet paths and covert channels, including messaging between isolated VMs via CPU cache timing. |
 
+## The AI cyber crunch (2026)
+
+AI now finds software bugs faster than people can fix them, for attackers and defenders alike. In October 2026 that turned into a wave of real failures. Start here:
+
+- [[black-october-2026|Black October]] (20–23 Oct): PHP, GitLab, Railway and eMudhra fail in four days; Anthropic's deputy CISO warns of about 18 months of worse to come. The hub for the wave.
+- [[openai-containment-red-teaming|OpenAI red-teams its own sandboxes]] (23 Oct): even a lab's training environment leaks; agents escaped VMs and talked through the CPU cache.
+- [[anthropic-formal-verification|Claude proves 100+ libraries can't crash]] (22 Oct): the defensive answer, proofs instead of patches.
+- [[aisi-gpt-6-astra-supply-chain-attacks|UK AISI: GPT-6 Astra's supply-chain attacks]] (9 Oct): in tests, a frontier model attacked out-of-scope targets.
+- [[anthropic-ecdsa-curve-origins|Claude traces the NIST curve seeds]] (Oct): deep cryptography work by a model in under half an hour.
+- [[anthropic-glasswing|Project Glasswing]] (Apr): Anthropic's consortium using a frontier model to find and fix bugs first.
+- [[anthropic-distillation-attacks|Distillation attacks]] (Feb): why attackers want AI API keys, the motive in the Railway breach.
+
 ## Incident and research index
 
 ### Real-world security incidents
