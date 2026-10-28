@@ -1,7 +1,7 @@
 ---
 created: 2026-10-23
 author: Anthropic Frontier Red Team (with Theorem)
-newsletter: standalone
+newsletter: weekly
 tags: [anthropic, claude, formal-verification, security, cybersecurity, proofs, rocq, oss-fuzz, research, ai-defence]
 ---
 

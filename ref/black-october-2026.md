@@ -8,6 +8,9 @@ tags: [cybersecurity, ai-security, vulnerabilities, php, wordpress, gitlab, rail
 
 In four days, PHP, GitLab, a cloud host and a certificate authority all had critical security failures. Anthropic's deputy CISO says it will get worse for about 18 months, as AI speeds up both finding and exploiting bugs.
 
+> **Rufus's note (2026-10-22):**
+> More evidence for the security apocalypse from AI. — Rufus Pollock
+
 ![PHP Foundation: today's PHP security release](https://screenshotit.app/https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 
 ## Links
@@ -18,6 +21,8 @@ In four days, PHP, GitLab, a cloud host and a certificate authority all had crit
 - **GitLab CVSS 10 flaw (The Hacker News)**: https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html
 - **Railway disclosure**: https://blog.railway.com/p/security-disclosure-wednesday-october-21st and [preliminary report](https://blog.railway.com/p/preliminary-report-october-security-incident)
 - **eMudhra certificates (BleepingComputer)**: https://bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates
+- **Japan government's rare call over the PHP flaw (Jiji via nippon.com)**: https://www.nippon.com/en/news/yjj2026102200999/
+- **Japan PM and FBI warnings (Deccan Chronicle)**: https://www.deccanchronicle.com/world/japan-pm-fbi-warn-of-critical-php-security-flaws-as-major-websites-go-offline-1997775
 - **Jason Clinton (Anthropic deputy CISO)**: https://x.com/JasonDClinton/status/2113325263157395456
 
 ## The week in brief
@@ -36,6 +41,8 @@ In four days, PHP, GitLab, a cloud host and a certificate authority all had crit
 PHP runs about 69% of websites whose server language is known, including WordPress, which alone powers about 40% of the web (W3Techs). Two flaws (CVE-2026-109618 and -109619) let anyone run code on a PHP server without logging in. Updating WordPress or plugins doesn't help: the fix is a new PHP version on the server.
 
 The disclosure went badly. Details leaked on 20 October, a researcher accidentally published a proof-of-concept video, and a vendor broke the embargo, so PHP pulled the release forward a day to 21 October. Cloudflare saw attack traffic within hours. Dutch government sites, the Dutch parliament and others went offline as a precaution.
+
+It is the worst kind of bug: anyone can take over a server without logging in, on the language under most of the web. On 21 October Japan's prime minister, Sanae Takaichi, posted on X urging organisations to check whether their websites run PHP, patch that night, and consider taking sites offline if they couldn't. Her own site was suspended until it had been checked. About half of Japanese-language websites run on WordPress. The FBI and NSA issued warnings, and Finnish government sites also went offline ahead of the fix.
 
 AI is all over this story. The bugs were reported by Calif, Wiz and OpenAI's Codex Security, among others. The PHP Foundation says AI-assisted research floods it with reports: 15 CVEs since July, plus over 100 invalid ones. "Tools now find bugs faster than ever, for defenders and attackers alike."
 
