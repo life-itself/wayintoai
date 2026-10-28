@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-28
+newsletter_url: https://wayintoai.com/weekly/2026-w44
 created: 2026-10-28
 author: Christopher Herzog, Andreas Stergiou (King's College London)
 tags: [ai-for-science, physics, theoretical-physics, conformal-field-theory, ai-agents, research-automation, chatgpt, claude]

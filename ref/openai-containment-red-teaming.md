@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-28
+newsletter_url: https://wayintoai.com/weekly/2026-w44
 created: 2026-10-28
 author: OpenAI
 tags: [openai, ai-security, containment, red-teaming, sandbox-escape, side-channel, covert-channel, agents, training-environment, alignment]

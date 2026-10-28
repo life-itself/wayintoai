@@ -39,7 +39,10 @@ showEditLink: false
 <section class="wai__section">
 <h2>Recently selected</h2>
 <div class="wai__list">
+<a href="/ref/openai-eth-kakeya-yang-mills"><span class="wai__date">26 Oct 2026</span><span class="wai__title">OpenAI says its AI settled three major open problems</span><span class="wai__kind">understand</span></a>
 <a href="/ref/anthropic-ipo-s1"><span class="wai__date">26 Oct 2026</span><span class="wai__title">Anthropic files for IPO at a ~$2 trillion valuation</span><span class="wai__kind">understand</span></a>
+<a href="/ref/black-october-2026"><span class="wai__date">23 Oct 2026</span><span class="wai__title">Black October: AI's security apocalypse arrives</span><span class="wai__kind">understand</span></a>
+<a href="/ref/anthropic-employment-at-anthropic"><span class="wai__date">23 Oct 2026</span><span class="wai__title">At Anthropic, agents now work six hours for every human hour</span><span class="wai__kind">understand</span></a>
 <a href="/posts/2026-10-09-maths-goes-industrial"><span class="wai__date">9 Oct 2026</span><span class="wai__title">Maths is being industrialised, and it's making mathematicians dizzy</span><span class="wai__kind">understand</span></a>
 <a href="/ref/moc-personal-agents"><span class="wai__date">6 Oct 2026</span><span class="wai__title">Always-on personal AI agents: a guide</span><span class="wai__kind">understand</span></a>
 <a href="/posts/2026-09-18-typesafe-jev-system-one"><span class="wai__date">18 Sep 2026</span><span class="wai__title">Jev makes the case for AI inside ordinary software</span><span class="wai__kind">understand</span></a>

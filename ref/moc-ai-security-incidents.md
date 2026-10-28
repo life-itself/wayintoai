@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-28
+newsletter_url: https://wayintoai.com/weekly/2026-w44
 created: 2026-08-06
 tags: [moc, ai-security, security-incident, autonomous-agents, agent-swarm, red-teaming, cybersecurity, escalation, distillation, sandbox-escape, existential-risk]
 ---

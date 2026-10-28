@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-28
+newsletter_url: https://wayintoai.com/weekly/2026-w44
 title: "The desk isn't the cabinet: your AI's memory is its files"
 description: What an AI holds in a session is not memory. Save what matters to files as you go, and start fresh sessions that read them.
 date: 2026-10-26

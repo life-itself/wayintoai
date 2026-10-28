@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-10-28
+newsletter_url: https://wayintoai.com/weekly/2026-w44
 created: 2026-10-23
 author: Anthropic Frontier Red Team (with Theorem)
 newsletter: weekly
