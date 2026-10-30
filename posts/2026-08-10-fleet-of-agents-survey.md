@@ -40,6 +40,7 @@ For my actual question — a manager layer that farms out and splits work automa
 - **What it solves**: real collaboration within a single bounded piece of work—parallel research, competing debugging hypotheses, separate modules, or frontend/backend/test ownership. Unlike ordinary subagents, teammates retain independent contexts and can coordinate directly instead of reporting only to the caller.
 - **What it does not solve**: it is not an always-on ticket/PR control plane. Team state lives locally under `~/.claude`; one lead can manage one team; teammates cannot create nested teams; and there is no Codex or cross-repository routing.
 - **Status and cost**: it requires Claude Code v2.1.32+ and the `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1` flag. Anthropic warns of limitations around session resumption, task-status lag, and shutdown; every teammate is a full Claude instance, so token use rises quickly.
+- **Update (2026-10-31)**: still experimental in Claude Code 2.1.31x. For how it works and how to use it with a Beads workflow, see [[claude-code-agent-teams]].
 - **Take**: much more than Agent View, and perhaps the easiest thing to try before installing a platform. Its useful boundary is *teamwork inside a run*, rather than fleet management across a backlog.
 
 ### Claude Code Agent View (native)
