@@ -13,6 +13,7 @@ Map of Content for the emerging category of environments that run, coordinate, a
 - [[pi.dev]] — minimal, terminal-first harness with deep extension and package support.
 - [[paperclip]] — agent-team management built around goals, roles, budgets, and governance.
 - [[claude-projects]] — Anthropic's own coordinator-plus-threads workbench for Claude Code: one conversation delegates to parallel cloud sessions.
+- [[hn-agent-control-planes-survey]] — what Hacker News has upvoted in this category since 2025, grouped by kind, and the gap nobody fills: a shared work graph and control plane.
 - [[delta-zed]] — Zed's multiplayer environment: teammates share one live agent thread, with conversation anchored to code via its own VCS (DeltaDB).
 
 ## Why this category matters
