@@ -35,7 +35,7 @@ Running many agent sessions on one laptop is solved; Claude Code does it. What i
 
 ## Essay outline for review (2026-10-31)
 
-Draft post: [[agent-control-plane]] (`posts/agent-control-plane.md`, `publish: false`). Working title: "What I want from an agent control plane, and why nothing fits yet". About 2,000 words.
+Draft post: [[agent-control-plane]] (`posts/agent-control-plane.md`, published 2026-10-31). Working title: "What I want from an agent control plane, and why nothing fits yet". About 2,000 words.
 
 1. **The bottleneck moved.** Running many sessions is solved: Claude Code, Agent View and Projects run ten at once on a laptop. Once you have that many, you become the router between them.
 2. **What I want.** The five points above, in my voice: a work graph across projects, a "what needs me" overview, coordination between agents, harnesses that run unattended, and a learning loop.

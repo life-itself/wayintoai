@@ -3,7 +3,6 @@ title: What I want from an agent control plane, and why nothing fits yet
 description: Running two dozen agent sessions on a laptop is solved. Planning work so it can be handed off, and seeing what needs you across all of it, is not. Here's what I want, what exists, and where the gap is.
 date: 2026-10-31
 authors: [rufus-pollock]
-publish: false
 ---
 
 **TL;DR:** Running many agent sessions at once is solved; Claude Code does it. What isn't solved is the layer above: a graph of work across all my projects, where I plan, hand off, see what's stuck, and get reminded what I was doing. That's a control plane. Lots of tools run sessions; almost nothing holds the work. And the hard part isn't only software. It's learning to plan and structure work so an agent can pick it up.
@@ -76,7 +75,7 @@ This is the group actually trying to be a control plane.
 
 ![Claude Code Agent Teams](https://screenshotit.app/https://code.claude.com/docs/en/agent-teams)
 
-**Claude Code Agent Teams** (396 points) is Anthropic's own: a lead session and teammates sharing a task list and a mailbox. The coordination is real but lasts one bounded run; when the job is done the team is gone. Teamwork within a task, not a backlog across projects. (I'm not sure I'm using it well enough yet; that needs its own write-up.)
+**[Claude Code Agent Teams](/ref/claude-code-agent-teams)** (396 points) is Anthropic's own: a lead session and teammates sharing a task list and a mailbox. The coordination is real but lasts one bounded run; when the job is done the team is gone. Teamwork within a task, not a backlog across projects. (I'm not sure I'm using it well enough yet; that needs its own write-up.)
 
 ![Optio](https://screenshotit.app/https://github.com/jonwiggins/optio)
 
