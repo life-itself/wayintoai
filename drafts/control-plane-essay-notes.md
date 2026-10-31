@@ -3,7 +3,7 @@ title: "Notes: what I want from an agent control plane, and why nothing fits yet
 publish: false
 ---
 
-Rough notes from Rufus, 2026-10-30, captured while drafting the OpenBases Hacker News launch. Raw material for an essay. Evidence: [[hn-agent-control-planes-survey]], [[2026-08-10-fleet-of-agents-survey]].
+Rough notes from Rufus, 2026-10-30, captured while drafting the OpenBases Hacker News launch. Raw material for an essay. **Draft: [[agent-control-plane]].** Evidence: [[hn-agent-control-planes-survey]], [[2026-08-10-fleet-of-agents-survey]].
 
 ## The claim
 
@@ -32,3 +32,23 @@ Running many agent sessions on one laptop is solved; Claude Code does it. What i
 3. Our experience: Gas Town, then building OpenBases, with what broke and what it cost.
 4. What I actually want: the five points above.
 5. Where the edge is: the work graph, harnesses and the learning loop.
+
+## Essay outline for review (2026-10-31)
+
+Draft post: [[agent-control-plane]] (`posts/agent-control-plane.md`, `publish: false`). Working title: "What I want from an agent control plane, and why nothing fits yet". About 2,000 words.
+
+1. **The bottleneck moved.** Running many sessions is solved: Claude Code, Agent View and Projects run ten at once on a laptop. Once you have that many, you become the router between them.
+2. **What I want.** The five points above, in my voice: a work graph across projects, a "what needs me" overview, coordination between agents, harnesses that run unattended, and a learning loop.
+3. **What exists, by category**, each with a screenshotit.app screenshot and its HN points:
+   - laptop workbenches (Conductor, Vibe Kanban);
+   - remote and cloud runners (Omnara);
+   - sandboxes and runtimes (NVIDIA OpenShell);
+   - orchestrators (Gas Town, Claude Agent Teams, Optio, Paperclip);
+   - company brains (one line).
+
+   The section ends with a table that scores each category against the five wants.
+4. **What we tried.** Gas Town was the breakthrough because the ledger holds the state, not any one session. It broke on a headless server, because it relies on tmux, and idle patrol agents cost $13 a day. Then OpenBases: a plain runner, a monitor that makes no model calls, and a model bill roughly halved. It is honestly alpha: no production deployment yet, and the learning loop isn't built.
+5. **Where the opening is.** The work graph, harnesses and the learning loop. It closes by asking readers what they use.
+
+Decisions for review:
+- OpenBases gets one section near the end, with its gaps listed, and isn't named in the title or intro, so the essay doesn't read as an ad.
