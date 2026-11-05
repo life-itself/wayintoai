@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-05
+newsletter_url: https://wayintoai.com/weekly/2026-w45
 title: What I want from an agent control plane, and why nothing fits yet
 description: Running two dozen agent sessions on a laptop is solved. Planning work so it can be handed off, and seeing what needs you across all of it, is not. Here's what I want, what exists, and where the gap is.
 date: 2026-10-31

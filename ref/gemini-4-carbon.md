@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-05
+newsletter_url: https://wayintoai.com/weekly/2026-w45
 created: 2026-10-31
 original_date: 2026-10-28
 author: Google DeepMind
