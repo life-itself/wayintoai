@@ -52,6 +52,7 @@ Claude Mythos 5.1, which has restricted access, scores 60.9% on Terminal-Bench 4
 | 2026-09-01 | Claude Fable 5.1 + Mythos 5.1 | Anthropic | Most capable general release at the time | [^fable-5-1] |
 | 2026-09-03 | [[gpt-6-astra]] | OpenAI | Saturates ARC-AGI-3; first "Critical" cyber rating | [^astra] [^astra-wiki] |
 | 2026-09-22 | [[claude-opus-5-5]] | Anthropic | Fable 5.1-level for about 40% less than Opus 5; Sonnet/Haiku 5.5 "in the coming weeks" | [^opus-5-5] |
+| 2026-10-28 | [[gemini-4-carbon]] | Google DeepMind | Top of the Artificial Analysis index; second only to Opus 5.5 on cost-per-task, at about a quarter of the price; restricted rollout to cyber defenders first | [^carbon] |
 
 ### 2024–2025 (Claude, for context)
 
@@ -75,6 +76,7 @@ All dates from the public Claude release timeline.[^claude-timeline]
 - [[pacing-the-frontier]]: the call to deliberately slow the frontier
 - [[stephen-reid-coding-agents-benchmarks]]
 - [[moc-ai-security-incidents]]
+- [[moc-google-ai-releases]]
 
 ## Sources
 
@@ -94,3 +96,4 @@ Where a row links to a reference entry here, that entry holds the fuller write-u
 [^gemma-4]: [Gemma 4](https://deepmind.google/models/gemma/gemma-4/), Google DeepMind.
 [^muse-spark]: [Introducing Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-msl/), Meta.
 [^deepseek-v4]: [DeepSeek V4 Preview release](https://api-docs.deepseek.com/news/news260424/), DeepSeek API docs.
+[^carbon]: [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/), Google, 2026-10-28.
