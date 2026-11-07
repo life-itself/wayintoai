@@ -8,6 +8,8 @@ tags: [ai-safety, superintelligence, intelligence-explosion, I.J.-Good, singular
 
 **I. J. Good**, Virginia Tech Department of Statistics Technical Report TR-05-3, March 3, 2005.
 
+![First page of the PDF — I. J. Good, "Speculations Concerning the First Ultraintelligent Machine", Virginia Tech TR-05-3, 2005](assets/situational-awareness-paper-frontpage.png)
+
 **PDF (archived):** [https://web.archive.org/web/20120501043117/http://www.stat.vt.edu/tech_reports/2005/goodtechreport.pdf](https://web.archive.org/web/20120501043117/http://www.stat.vt.edu/tech_reports/2005/goodtechreport.pdf)
 
 This is I. J. Good's seminal paper on the **intelligence explosion** — the idea that once a machine becomes capable of improving its own intelligence, an "ultraintelligent machine" could trigger a self-reinforcing cycle of recursive self-improvement. Good famously wrote:
@@ -20,6 +22,7 @@ The concept originates in Good's 1965 paper "Speculations Concerning the First U
 
 - PDF (Internet Archive snapshot): https://web.archive.org/web/20120501043117/http://www.stat.vt.edu/tech_reports/2005/goodtechreport.pdf
 - Virginia Tech Stats technical reports list: https://www.stat.vt.edu/content/dam/stat_vt_edu/graphics-and-pdfs/research-papers/Technical_Reports/technical-report-list.pdf (see TR-05-3)
+- First page image (local): `assets/situational-awareness-paper-frontpage.png`
 - Related: [[an-alien-mind-pachocki]] — Pachocki on recursive self-improvement and "growing" AI
 - Related: [[openai-research-acceleration-view-inside]] — OpenAI framing RSI as "the only way to remain at the frontier"
 - Related: [[situational-awareness-ai-progress-slow-takeover]] — Christiano et al. on slow takeoff
