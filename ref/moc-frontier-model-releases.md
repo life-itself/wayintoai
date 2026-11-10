@@ -52,7 +52,9 @@ Claude Mythos 5.1, which has restricted access, scores 60.9% on Terminal-Bench 4
 | 2026-09-01 | Claude Fable 5.1 + Mythos 5.1 | Anthropic | Most capable general release at the time | [^fable-5-1] |
 | 2026-09-03 | [[gpt-6-astra]] | OpenAI | Saturates ARC-AGI-3; first "Critical" cyber rating | [^astra] [^astra-wiki] |
 | 2026-09-22 | [[claude-opus-5-5]] | Anthropic | Fable 5.1-level for about 40% less than Opus 5; Sonnet/Haiku 5.5 "in the coming weeks" | [^opus-5-5] |
+| 2026-10-07 | [[claude-haiku-5-5]] | Anthropic | About 75% cheaper to run than Haiku 4.5 | [^haiku-5-5] |
 | 2026-10-28 | [[gemini-4-carbon]] | Google DeepMind | Top of the Artificial Analysis index; second only to Opus 5.5 on cost-per-task, at about a quarter of the price; restricted rollout to cyber defenders first | [^carbon] |
+| 2026-11-09 | [[claude-fable-5-2]] + Mythos 5.2 | Anthropic | "A step above Opus 5.5" on almost everything; big gains on long agentic tasks (Remote Labor Index 17.9% → 41.3%); $8 / $40; Opus 5.5 stays the default | [^fable-5-2] |
 
 ### 2024–2025 (Claude, for context)
 
@@ -96,4 +98,6 @@ Where a row links to a reference entry here, that entry holds the fuller write-u
 [^gemma-4]: [Gemma 4](https://deepmind.google/models/gemma/gemma-4/), Google DeepMind.
 [^muse-spark]: [Introducing Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-msl/), Meta.
 [^deepseek-v4]: [DeepSeek V4 Preview release](https://api-docs.deepseek.com/news/news260424/), DeepSeek API docs.
+[^haiku-5-5]: [Introducing Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5), Anthropic, 2026-10-07.
+[^fable-5-2]: [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2), Anthropic, 2026-11-09. Its benchmark table uses newer versions (FrontierCode 2.0, OSWorld 2.1) and does not report Terminal-Bench 4.0, so it is not in the chart above.
 [^carbon]: [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/), Google, 2026-10-28.
