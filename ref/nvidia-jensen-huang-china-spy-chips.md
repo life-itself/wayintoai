@@ -1,13 +1,15 @@
 ---
 created: 2026-11-10
 original_date: 2026-10-29
-newsletter: weekly
+newsletter: standalone
 tags: [nvidia, jensen-huang, china, chips, export-controls, geopolitics, espionage, compute, major-news]
 ---
 
 # Nvidia, Jensen Huang and the alleged Chinese spy
 
 US reporting says Nvidia's CEO Jensen Huang had a years-long affair with a woman US intelligence believes was working for Beijing. Follow-up reporting says the relationship helped move at least $7.5 billion of restricted Nvidia chips into China. Huang has admitted the affair. The spying and the chip flows are still allegations.
+
+> **Rufus's note (2026-11-11):** This is a big deal. And at one point or another, all of these stories showed up in [[ai-2027]], even the espionage.
 
 ![Al Jazeera explainer](https://screenshotit.app/https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal)
 
