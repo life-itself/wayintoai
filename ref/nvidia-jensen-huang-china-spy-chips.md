@@ -9,7 +9,7 @@ tags: [nvidia, jensen-huang, china, chips, export-controls, geopolitics, espiona
 
 US reporting says Nvidia's CEO Jensen Huang had a years-long affair with a woman US intelligence believes was working for Beijing. Follow-up reporting says the relationship helped move at least $7.5 billion of restricted Nvidia chips into China. Huang has admitted the affair. The spying and the chip flows are still allegations.
 
-> **Rufus's note (2026-11-11):** This is a big deal. And at one point or another, all of these stories showed up in [[ai-2027]], even the espionage.
+> **Rufus's note (2026-11-11):** The CEO of a $4.5 trillion company, the one that makes the chips the AI race runs on, admits an affair with a woman US intelligence reportedly believes was working for Beijing. You couldn't make this up. The ramifications go well beyond AI. It has already knocked about $190 billion off Nvidia's value in a day and put its CEO under a board investigation. It raises questions for the Trump administration: did it fail to act when it should have, simply get it wrong, or allow things it shouldn't have? And it shows how badly people want these chips, and how long-term China's strategic thinking is. At one point or another, all of these stories showed up in [[ai-2027]], even the espionage.
 
 ![Al Jazeera explainer](https://screenshotit.app/https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal)
 
@@ -26,6 +26,8 @@ US reporting says Nvidia's CEO Jensen Huang had a years-long affair with a woman
 ## Why it matters
 
 Export controls on advanced chips are the main tool the US uses to slow China's AI progress. Nvidia is the company those controls mostly bind. If its CEO was the target of an intelligence operation, and a network around that relationship moved H100s and H200s into Chinese data centres, the controls leaked at the top.
+
+It is also a political story beyond AI. The stakes reach the White House: Trump says Huang told him he had no idea she was a spy, and when asked whether he should have acted on an intelligence briefing he said "No, I don't think so." Markets took it seriously too. Nvidia lost about $190 billion of market value on Monday 9 November alone, according to 24/7 Wall St, and fell again on Tuesday.
 
 The story also lands in a policy fight. Last December Trump said Nvidia could sell H200s to China, a major easing; Al Jazeera puts the H200 at roughly six times the power of the H20 approved before it. Critics of that decision now have a story about how the chips were getting there anyway.
 
@@ -58,7 +60,7 @@ Nvidia told The Information it sells mainly through partners, works with them on
 | Donald Trump | Called Huang an "honourable guy" and said Huang told him he had no idea she was a spy. Asked whether he should have acted on an intelligence briefing: "No, I don't think so." |
 | China | Foreign ministry spokesperson Guo Jiakun: the "so-called Chinese spy narrative" is "nothing but smears against China". |
 | Congress | Republican Reps Moolenaar, Mast and Crawford want Huang to testify on 18 Nov. Sen. Elizabeth Warren: Huang and the board "owe Congress answers". |
-| Investors | Proposed shareholder class action filed; several firms announced investigations. Shares fell about 4% on Monday and 5% on Tuesday. |
+| Investors | Proposed shareholder class action filed; several firms announced investigations. Shares fell about 4% on Monday (about $190 billion of value, from a market cap of about $4.5 trillion) and 5% on Tuesday. |
 
 *Sources: Al Jazeera, Gizmodo, 24/7 Wall St, 8–10 Nov 2026.*
 
