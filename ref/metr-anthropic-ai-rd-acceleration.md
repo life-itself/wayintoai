@@ -9,10 +9,10 @@ tags: [metr, anthropic, ai-rd, acceleration, recursive-self-improvement, automat
 
 # METR: AI is roughly doubling the speed of AI progress at Anthropic
 
-METR, the independent AI evaluator, spent 11 weeks inside Anthropic with unprecedented access to internal data. It concludes that Anthropic is now improving its models at about **twice** the rate it did from March 2024 to October 2025, and guesses that about 80% of that speed-up comes from AI doing the work. It found no bottleneck that would stop the speed-up compounding over the next year.
+METR, the independent AI evaluator, spent 11 weeks inside Anthropic with unprecedented access to internal data. It concludes that Anthropic is now improving its models at about **twice** the rate it did from March 2024 to October 2025. It guesses about 80% of that speed-up comes from Anthropic's use of AI, and found no bottleneck that would stop it compounding over the next year, though it is not confident of that.
 
-![METR chart: Anthropic's capability index (AECI) by model, March 2024 to October 2026. The trend is about +15 points a year up to October 2025 and about +29 a year after it; internal-only models Model 2, 3 and 4 sit at the top, above the public Opus 5.5 and Mythos 5.1](/assets/metr-ai-rd-aeci-main.png)
-*METR: Anthropic's benchmark index has grown at 1.9× its pre-October 2025 rate. Orange dots are internal models the public has not seen.*
+![METR chart: Anthropic's capability index (AECI) by model, March 2024 to October 2026. The trend is about +15 points a year up to October 2025 and about +29 a year after it; the internal-only Models 3 and 4 sit at the top, above the public Opus 5.5 and Mythos 5.1](/assets/metr-ai-rd-aeci-main.png)
+*METR: Anthropic's benchmark index has grown at 1.9× its pre-October 2025 rate. Orange dots were internal-only at the time.*
 
 ## Links
 
@@ -23,11 +23,11 @@ METR, the independent AI evaluator, spent 11 weeks inside Anthropic with unprece
 
 ## Why it matters
 
-AI speeding up AI research is the mechanism behind every fast-takeoff worry, from I.J. Good in 1965 to [[ai-2027]]. Until now the evidence was the labs' own word. This is the first time an outside evaluator, with inside access, has checked. METR states the stakes in its first paragraph:
+AI speeding up AI research is the mechanism behind every fast-takeoff worry, from I.J. Good in 1965 to [[ai-2027]]. Until now the evidence was mostly the labs' own word. Here an outside evaluator, with inside access, checked. METR states the stakes in its first paragraph:
 
 > If AI systems started to significantly accelerate further AI development, this could lead to a sudden emergence of extreme and risky capabilities.
 
-Its answer is that the loop is running, at Anthropic at least, and that nothing METR could see will slow it soon.
+Its answer is that the loop is running, at Anthropic at least, and that METR could see nothing likely to slow it within a year. Its view of bottlenecks "changed several times", so it holds that loosely.
 
 ## The three conclusions
 
@@ -46,7 +46,7 @@ A 2× acceleration means two years of earlier-rate progress in one year. METR pu
 | Measure | Estimate |
 |---|---|
 | **Growth in Anthropic's capability index (AECI) since Oct 2025** | 1.9× the earlier rate (95% CI 1.5–2.8×) |
-| **Range across METR's robustness checks** | 1.1× to 2.9× |
+| **Range across METR's robustness checks** | 1.1× to 2.9× (mostly from one modelling choice; other checks give 1.9–2.2×) |
 | **Same measure across all frontier developers** | 1.4× |
 | **Anthropic's own estimate (Haiku 5.5 system card)** | 1.7× |
 | **Share of today's acceleration due to AI (METR's guess)** | about 80% |
@@ -54,7 +54,7 @@ A 2× acceleration means two years of earlier-rate progress in one year. METR pu
 
 *Source: METR, 5 Nov 2026. AECI is Anthropic's version of Epoch AI's Capabilities Index, which combines many benchmarks into one score.*
 
-METR's estimate is higher than Anthropic's 1.7× because it includes Anthropic's newest **internal-only** models, called Model 2, 3 and 4 in the report. They finished training between July and October 2026 and sit above every public Claude model on the chart. METR notes that Anthropic "is holding onto more recent models for slightly longer before their public release".
+METR's estimate is higher than Anthropic's 1.7× because it includes Anthropic's newest **internal-only** models, called Model 2, 3 and 4 in the report. They finished training between July and October 2026; Models 3 and 4 sit above every public Claude model on the chart. METR notes that Anthropic "is holding onto more recent models for slightly longer before their public release".
 
 ## Is it AI, or something else?
 
@@ -63,7 +63,7 @@ METR is "confident that the acceleration was not due to an acceleration in the s
 ![METR illustrative sketch, labelled "fake data": the historical trend continues at the old slope; above it an "AECI without AI (best guess)" line shows growth due to non-AI factors; above that the observed line shows the extra growth due to AI, which is most of the gap by October 2026](/assets/metr-ai-rd-attribution-sketch.png)
 *METR's illustration of how it splits the speed-up between AI and other causes. Not real data.*
 
-The staff surveys are the most striking evidence, and METR treats them as the weakest. Self-reported uplift from Anthropic's own models went from about 1.2× (Claude 3.7 Sonnet, early 2025) to about 12× (Model 4, October 2026).
+The staff surveys are the most striking evidence, though METR calls them "only very loose evidence". Self-reported uplift from Anthropic's own models went from about 1.2× (Claude 3.7 Sonnet, early 2025) to about 12× (Model 4, October 2026).
 
 ![METR chart: informal self-reported uplift from Anthropic staff on a log scale, from about 1.2× for 3.7 Sonnet in early 2025 through Opus 4.5, Opus 4.6, Mythos Preview and Mythos 5 to about 12× for Model 4 in October 2026; exponential fit 3.9× a year](/assets/metr-ai-rd-self-reported-uplift.png)
 *METR: "Results come from informal surveys and Slack polls. They should be taken as very loose evidence."*
@@ -72,7 +72,7 @@ METR stresses that a 12× personal speed-up does not mean 12× faster progress. 
 
 ### What Anthropic researchers told METR
 
-METR publishes the interview quotes, with sensitive details redacted. Of 11 researchers, five supported or leaned towards a 2× or greater speed-up, four were unclear, and two said no.
+METR publishes the interview quotes, with sensitive details redacted. Claude coded them: of 11 researchers, five supported or leaned towards a 2× or greater speed-up, four were unclear, and two said no.
 
 > "Now only bottlenecked on ideas & compute, no longer bottlenecked on code." (Researcher A)
 
@@ -82,7 +82,9 @@ METR publishes the interview quotes, with sensitive details redacted. Of 11 rese
 
 > "I've seen us discovering very promising directions ~entirely because people can spam 10 ideas at [agent-scaffold] and see what sticks." (Researcher E)
 
-The sceptics put more weight on hiring:
+The sceptics put more weight on hiring and other non-AI factors:
+
+> "IMO [hiring is] probably the biggest reason …" (Researcher K)
 
 > "Guesses 15-20% is due to AI. Don't believe in self-reported productivity increase." (Researcher L)
 
@@ -118,15 +120,18 @@ Anthropic said the redactions were "aimed at removing confidential information t
 
 Other process details:
 
-- **Compute check dropped.** The contract originally included verifying how Anthropic splits compute between capabilities and safety. Anthropic cut that part midway, before METR reached any conclusion.
+- **Compute check dropped.** The contract originally included verifying how Anthropic splits compute between capabilities and safety. Anthropic cut that part midway, before METR reached any conclusion. It said it wanted to keep the engagement focused on risk assessment, and would revisit compute verification later.
 - **Claude in the loop.** Claude was deeply involved in most of the data METR received, a significant share of the documents, and most of METR's own analysis. METR found no sign this biased the results.
+- **Not reproducible.** METR had no query access to Anthropic's models, and its own checklist says it could not share enough method for independent review.
+- **Pressure.** METR says some of Anthropic's feedback on its risk-report review was "overly forceful", though Anthropic was receptive when METR raised it.
+- **Conflict of interest.** One team member had a job offer from Anthropic (declined) and equity in a competitor; their work was checked by an unconflicted colleague.
 - **No payment.** METR took no fee; Anthropic provided laptops and token credits.
 - **Not misled.** METR thinks it "extremely unlikely Anthropic was actively trying to mislead us".
 
 ## Why interesting
 
 - **It pairs with Fable 5.2.** Four days later Anthropic released [[claude-fable-5-2]], a large jump in long-running agentic work ten weeks after Fable 5.1. Anthropic says over 90% of the code changes merged into its core codebase are now written by Claude.
-- **The best models are internal.** Three Anthropic models stronger than anything public were in use internally by October.
+- **The best models were internal.** By October, Anthropic had internal models stronger than anything it had released. The report does not say how they relate to Fable 5.2.
 - **A precedent with limits.** A frontier lab let an outside evaluator test the claim that worries people most. The redactions show how far that still is from public accountability.
 
 ## Related
