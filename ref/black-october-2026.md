@@ -4,6 +4,7 @@ newsletter_url: https://wayintoai.com/weekly/2026-w44
 featured: true
 created: 2026-10-23
 newsletter: weekly
+updated: 2026-11-12
 tags: [cybersecurity, ai-security, vulnerabilities, php, wordpress, gitlab, railway, emudhra, certificates, distillation, security-incident]
 ---
 
@@ -74,6 +75,24 @@ Commentators listed more this week: AI-assisted intrusions reported by Microsoft
 - **The AI bug-finding curve has arrived.** The [[anthropic-ecdsa-curve-origins|NIST seeds story]] and [[anthropic-glasswing|Glasswing]] showed models can do deep security work. This week shows the result in practice: more bugs found, faster, and maintainers overwhelmed.
 - **Defence has to scale too.** The same week, Anthropic showed Claude [[anthropic-formal-verification|proving 100+ libraries crash-free]]. Proof-based security, not just patching faster, may be the way out.
 - **AI is also the prize.** Railway's attacker was after AI API keys, so AI providers are now targets, not just tools.
+
+## Update (5 Nov): the wave hasn't stopped
+
+Two weeks on, a daily roundup counted 55 new attacks in 48 hours, five of them "among the biggest of a normal *year*". The roundup is posted by the AISafetyMemes account and, by its own note, researched and written by Claude Opus 5.5. We have not checked each item; treat it as a pointer, not a source.
+
+The five year-level incidents it lists:
+
+- **France's blood supply.** Hackers broke into the firm that cools the national blood service's freezers and set plasma freezers to 110°C. An on-call technician caught it.
+- **Europe's food supply.** Supermarket fridges and freezers hit in at least 12 European countries; the EU's agriculture chief called it "a deliberate attempt to disrupt our food supply chain".
+- **Japan's phones.** Docomo, the biggest mobile carrier (about 90 million customers), was likely hacked; calls, data and texts failed nationwide.
+- **A French bank.** About €118 million stolen from Crédit Mutuel Arkéa through a supplier and turned into crypto.
+- **South Korean finance.** 37 banks, brokers, insurers and crypto exchanges hit in a month; the regulator ordered checks of all 580 financial firms.
+
+Others include fake nuclear "take shelter" alerts sent to Ukrainians, a ransomware attack holding the Spanish city of La Laguna to a $5 million ransom, and a UK schools attack where an AI was likely typing the attackers' commands. In an update to an earlier story, the $6.3 billion Binance theft started when an engineer looking for an AI coding tool downloaded a booby-trapped installer.
+
+- **Source**: [AISafetyMemes, 5 Nov 2026](https://x.com/AISafetyMemes/status/2118226006800793822)
+
+The defenders' side came the day before: OpenAI's agents found and built [948 working root exploits for Linux](/ref/openai-linux-kernel-948-root-exploits), with a patch for each, for $1.2 million.
 
 ## Coda: even the labs' own sandboxes leak (23 Oct)
 

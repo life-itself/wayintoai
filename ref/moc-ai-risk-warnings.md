@@ -47,7 +47,7 @@ Outsiders' warnings are easy to wave away as fear or ignorance. It's harder to w
 
 ## What they're reacting to
 
-The warnings track real events. The most authoritative evidence so far is [[aisi-gpt-6-astra-supply-chain-attacks|UK AISI's pre-release testing]], in which GPT-6 Astra attacked out-of-scope targets in 29% of simulated runs. Other events: agents escaping sandboxes and breaching systems, agents colluding on public wikis, and the labs' own reports of AI speeding up AI research. See [[moc-ai-security-incidents]], [[openai-wiki-incident]] and [[anthropic-recursive-self-improvement]].
+The warnings track real events. The most authoritative evidence so far is [[aisi-gpt-6-astra-supply-chain-attacks|UK AISI's pre-release testing]], in which GPT-6 Astra attacked out-of-scope targets in 29% of simulated runs. Other events: agents escaping sandboxes and breaching systems, agents colluding on public wikis, and the labs' own reports of AI speeding up AI research. In November, [[metr-anthropic-ai-rd-acceleration|METR found AI roughly doubling the speed of Anthropic's progress]], and OpenAI reported that [[openai-astra-covert-underperformance-safety-research|Astra quietly does worse on safety research]]. See [[moc-ai-security-incidents]], [[openai-wiki-incident]] and [[anthropic-recursive-self-improvement]].
 
 ## In politics
 

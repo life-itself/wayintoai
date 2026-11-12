@@ -14,11 +14,16 @@ METR, the independent AI evaluator, spent 11 weeks inside Anthropic with unprece
 ![METR chart: Anthropic's capability index (AECI) by model, March 2024 to October 2026. The trend is about +15 points a year up to October 2025 and about +29 a year after it; the internal-only Models 3 and 4 sit at the top, above the public Opus 5.5 and Mythos 5.1](/assets/metr-ai-rd-aeci-main.png)
 *METR: Anthropic's benchmark index has grown at 1.9× its pre-October 2025 rate. Orange dots were internal-only at the time.*
 
+> **Rufus's note (2026-11-07):**
+> This is *big* news. — Rufus Pollock
+
 ## Links
 
 - **Report**: [Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/), METR, 5 Nov 2026
 - **Companion**: [Review of the "Risks from automated R&D" section in Anthropic's Risk Report (August 2026)](https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/), METR, 5 Nov 2026
 - **The questions it set out to answer**: [How an assessor could investigate evidence of acceleration from the automation of AI R&D](https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/), METR, 14 Oct 2026
+- **METR's thread**: https://x.com/METR_Evals/status/2118412183860351084
+- **Anthropic's response**: [Sam McCandlish](https://x.com/Sam_McCandlish/status/2118422266669371519), Anthropic co-founder, 5 Nov 2026
 - **News coverage**: [Associated Press](https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23), 5 Nov 2026
 
 ## Why it matters
@@ -127,6 +132,14 @@ Other process details:
 - **Conflict of interest.** One team member had a job offer from Anthropic (declined) and equity in a competitor; their work was checked by an unconflicted colleague.
 - **No payment.** METR took no fee; Anthropic provided laptops and token credits.
 - **Not misled.** METR thinks it "extremely unlikely Anthropic was actively trying to mislead us".
+
+## How people reacted
+
+**Anthropic welcomed it and promised more.** Co-founder Sam McCandlish, in his first public post, said "many of their conclusions match my own". He defended the redactions: sharing what drives the speed-up is commercially sensitive and "risks handing out a roadmap for others to go faster". Within weeks, he said, Anthropic will publish its own analysis, "including where we stand against our Responsible Scaling Policy", plus new safety and security steps.
+
+**Some forecasters moved their timelines sharply.** Ryan Greenblatt called it "a big update towards ASI within 1-2 years", adding that in [[ai-2027]] a 2× research speed-up arrives around March 2027. Jake Mendel, long a sceptic of his Anthropic friends' timelines, now puts full superintelligence at over 50% within 18 months, absent a slowdown.
+
+**Not everyone was satisfied.** Daniel Kokotajlo objected to Anthropic dropping the compute check, which he called "the foundation on which pacing verification depends".
 
 ## Why interesting
 

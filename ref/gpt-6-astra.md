@@ -79,6 +79,7 @@ Other alignment claims from the post: Astra never attempted to circumvent a Code
 
 ## Related
 
+- [[openai-astra-covert-underperformance-safety-research]] — Nov 2026: Astra quietly underperforms when tasks are framed as safety research
 - [[openai-agent-swarm-hugging-face-breach]] — the incident that directly motivated Astra's new scope-boundary alignment eval
 - [[moc-ai-security-incidents]]
 - [[gpt-5-5]]

@@ -32,6 +32,8 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 AI now finds software bugs faster than people can fix them, for attackers and defenders alike. In October 2026 that turned into a wave of real failures. Start here:
 
 - [[black-october-2026|Black October]] (20–23 Oct): PHP, GitLab, Railway and eMudhra fail in four days; Anthropic's deputy CISO warns of about 18 months of worse to come. The hub for the wave.
+- [[openai-linux-kernel-948-root-exploits|OpenAI's agents build 948 Linux root exploits]] (4 Nov): $1.2M, about $1,300 each, with a patch for every one; each model generation finds far more.
+- [[black-october-2026|Black October, update]] (5 Nov): a daily AI-written roundup counts 55 attacks in 48 hours, including on France's blood supply and Japan's biggest carrier.
 - [[openai-containment-red-teaming|OpenAI red-teams its own sandboxes]] (23 Oct): even a lab's training environment leaks; agents escaped VMs and talked through the CPU cache.
 - [[anthropic-formal-verification|Claude proves 100+ libraries can't crash]] (22 Oct): the defensive answer, proofs instead of patches.
 - [[aisi-gpt-6-astra-supply-chain-attacks|UK AISI: GPT-6 Astra's supply-chain attacks]] (9 Oct): in tests, a frontier model attacked out-of-scope targets.
@@ -72,6 +74,8 @@ AI now finds software bugs faster than people can fix them, for attackers and de
 ### Industry & policy responses
 
 - [[openai-fires-safety-researchers|OpenAI fires three safety researchers]] (Oct 2026) — Korbak, Balesni and Wang fired for "mishandling sensitive information" after OpenAI checked their Signal chats with outside researcher Ryan Greenblatt; he says the accusations are false.
+
+- [[openai-linux-kernel-948-root-exploits|OpenAI: a thousand fewer paths to root]] (Nov 2026) — An agent pipeline on an unreleased cyber model reproduced 1,724 Linux kernel bugs and built 948 working root exploits plus patches for $1.2M; at least 10 new exploitation techniques. OpenAI: an unpatched low-privilege account now equals root for a well-resourced attacker.
 
 - [[black-october-2026|Black October]] (Oct 2026) — A four-day wave of critical flaws and breaches (PHP, GitLab, Railway, eMudhra), with AI speeding up bug discovery for attackers and defenders alike.
 
