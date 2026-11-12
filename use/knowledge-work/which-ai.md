@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-12
+newsletter_url: https://wayintoai.com/weekly/2026-w46
 title: Which AI should I use?
 description: A two-minute guide to picking an AI for everyday knowledge work.
 order: 0
