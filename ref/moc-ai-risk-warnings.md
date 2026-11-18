@@ -35,6 +35,7 @@ Outsiders' warnings are easy to wave away as fear or ignorance. It's harder to w
 
 ## Evaluators and researchers
 
+- **Paul Christiano** (inventor of RLHF, ARC founder, OpenAI Foundation board), November 2026: [[christiano-ai-takeover-dwarkesh-2026-11]]. Puts AI takeover within a year at "more like a 10% risk than a 1% risk", and says labs should pause algorithmic progress until they can secure their weights.
 - **Elizabeth Barnes** (METR), May 2026: [[elizabeth-barnes-we-are-not-on-top-of-it|"We are not on top of it"]]. Speaking as "an expert", she writes that we are "likely on track to develop AI systems capable of causing human extinction/permanent disempowerment, quite possibly within the next few years."
 - **Hany Farid** (UC Berkeley, deepfakes), June 2026: [[hany-farid-tech-giants]]. "These major tech giants will burn everything to the ground as long as they're making a profit."
 

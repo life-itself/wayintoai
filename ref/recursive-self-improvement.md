@@ -43,6 +43,7 @@ Today's version is less dramatic and more concrete. AI research is mostly writin
 | 5 Nov 2026 | **METR**, an outside evaluator with inside access, estimates Anthropic's progress at about twice its earlier rate, about 80% of it due to AI: [[metr-anthropic-ai-rd-acceleration]] |
 | 10 Nov 2026 | **AI 2027's authors** now think a superhuman AI researcher is most likely in 2027, mainly because of METR: [[ai-futures-timelines-2027-after-all]] |
 | 13 Nov 2026 | **Anthropic's IPO roadshow** slide shows pretraining efficiency bending upward on a log scale (no numbers on the axis): [[anthropic-roadshow-compute-multiplier-slide]] |
+| 16 Nov 2026 | **Paul Christiano**, who invented RLHF, puts a one-in-three chance on superintelligence within a year on the current trajectory, and argues labs should pause algorithmic progress: [[christiano-ai-takeover-dwarkesh-2026-11]] |
 | 18 Nov 2026 | **OpenAI** rates GPT-6.2 Astra its first released model at "High" for AI self-improvement: [[gpt-6-2-astra-sol]] |
 | 18 Nov 2026 | **California** proposes a state power to cap recursive self-improvement: [[california-ai-safety-next-steps-2026-11]] |
 
@@ -58,6 +59,7 @@ Most of this evidence comes from the labs themselves, and Anthropic redacted mos
 
 ## People and warnings
 
+- [[christiano-ai-takeover-dwarkesh-2026-11]]: Paul Christiano's takeover story, with video
 - [[jacob-coxon-anthropic-resignation]]: a researcher who left Anthropic over it
 - [[bengio-leave-frontier-ai-companies]]: Yoshua Bengio's advice to people inside the labs
 - [[geoffrey-hinton]]
