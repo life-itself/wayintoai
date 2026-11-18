@@ -25,4 +25,4 @@ The concept originates in Good's 1965 paper "Speculations Concerning the First U
 - First page image (local): `assets/situational-awareness-paper-frontpage.png`
 - Related: [[an-alien-mind-pachocki]] — Pachocki on recursive self-improvement and "growing" AI
 - Related: [[openai-research-acceleration-view-inside]] — OpenAI framing RSI as "the only way to remain at the frontier"
-- Related: [[situational-awareness-ai-progress-slow-takeover]] — Christiano et al. on slow takeoff
+- Related: [[situational-awareness-ai-progress-slow-takeover]] — Leopold Aschenbrenner's "Situational Awareness" (2024), on the intelligence explosion

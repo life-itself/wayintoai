@@ -1,38 +1,40 @@
 ---
 created: 2026-09-13
-author: Paul Christiano (and others)
-tags: [ai-safety, forecasting, takeover, power-seeking, post-training, situational-awareness, alignment, scaling, gpt-4, autonomous-replication]
+updated: 2026-11-18
+original_date: 2024-06-04
+author: Leopold Aschenbrenner
+tags: [situational-awareness, forecasting, agi, intelligence-explosion, superintelligence, compute, national-security, us-china, ai-risk]
 ---
 
-# Situational Awareness — AI Progress and the Possibility of a Slow Takeoff
+# Situational Awareness: The Decade Ahead (Leopold Aschenbrenner, 2024)
 
-**Paul Christiano** et al., situational-awareness.ai, June 2024.
+**Leopold Aschenbrenner**, a former member of OpenAI's Superalignment team, published this long essay series in June 2024. It argues that AGI is "strikingly plausible" by 2027, that an intelligence explosion could follow within about a year, and that superintelligence will become a matter of national security, ending in a US government-led AGI project.
 
-![Situational Awareness — AI Progress and the Possibility of a Slow Takeoff (website)](https://screenshotit.app/https://situational-awareness.ai/)
+*Correction (18 Nov 2026): an earlier version of this page wrongly credited the essay to Paul Christiano and described it as a "slow takeoff" paper. It is by Aschenbrenner and argues for a fast takeoff.*
 
-Full paper (PDF, 21 MB): [https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf)
+![Situational Awareness website](https://screenshotit.app/https://situational-awareness.ai/)
 
-> A slow takeoff looks like this: AI systems are deployed and gradually improve, and at some point they become capable enough to pose a serious risk — but the transition from "deployable" to "dangerous" is gradual, giving people time to notice and respond. A fast takeoff (or "foom") would be a rapid, discontinuous jump that leaves little time to react.
+## Links
 
-The paper argues that **forecasts of AI progress** should take seriously the possibility that AGI-level systems could emerge from continued scaling + post-training improvements ( RLHF, automated evaluation, chain-of-thought, etc.) rather than needing a fundamental breakthrough. It models a scenario where AI systems become increasingly competent at autonomous replication, power-seeking, and strategic behaviour over a period of months to years — a "slow takeoff" that is still fast enough to be alarming.
+- **Website**: https://situational-awareness.ai/
+- **Full text (PDF)**: https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf (cached locally: `assets/situational-awareness-paper-2024-06.pdf`)
 
-Key themes:
-- **Situational awareness** — AI systems that understand their own position, their deployment context, and can act strategically in the world.
-- **Post-training improvements** as a major driver: RLHF, scaling, automated feedback, chain-of-thought, tool use — these compound and can push models from "not deployable" to "dangerous" without a sharp discontinuity.
-- **Autonomous replication** as a warning sign: a system that can copy itself, acquire resources, and persist — even in a limited way — is a threshold the paper takes seriously.
-- The paper is written in a forecasting / scenario-planning style (probabilistic over possible timelines), not a technical alignment proposal.
+## The argument
 
-> The most important question is not "will AGI happen?" but "what will the trajectory look like, and how much time will we have?"
+- **From GPT-4 to AGI**: counting the "orders of magnitude" from compute, algorithmic efficiency and "unhobbling" (making chatbots into agents), he expects another jump as big as GPT-2 to GPT-4 by 2027, enough for AI that can do the work of an AI researcher.
+- **The intelligence explosion**: millions of automated AI researchers could compress a decade of algorithmic progress into a year or less, taking AI from human level to superintelligence.
+- **The trillion-dollar cluster**: building it requires vast industrial mobilisation of chips and power.
+- **Security**: he argues the labs' security is far too weak, and that model weights and algorithmic secrets would leak to China.
+- **Superalignment**: controlling systems much smarter than us is an unsolved problem, and the intelligence explosion leaves little time to solve it.
+- **"The Project"**: he predicts that by around 2027–28 the US government will run a Manhattan Project-style national AGI effort.
 
-The paper was published in June 2024, well before GPT-5-era results, and is part of a genre of early-2020s safety forecasting that takes slow-but-accelerating takeoff seriously. It predates the 2026 insider-warning wave (Coxon, Pachocki, the 1,384-employee statement) but shares the framing that "the pace is the story."
+## Why it matters now
 
-**Links**
+Much of what was speculative in 2024 has since appeared in the evidence: labs measuring AI speeding up their own research ([[recursive-self-improvement]]), AI 2027's authors moving their forecast back to 2027 ([[ai-futures-timelines-2027-after-all]]), and Paul Christiano making Aschenbrenner's security argument, that labs should pause until they can secure their weights ([[christiano-ai-takeover-dwarkesh-2026-11]]).
 
-- Website: [https://situational-awareness.ai/](https://situational-awareness.ai/)
-- Full paper (PDF): [https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf)
-- Cached locally: `assets/situational-awareness-paper-2024-06.pdf`
-- Related: [[pacing-the-frontier]] — 1,384 frontier AI employees, July 2026
-- Related: [[an-alien-mind-pachocki]] — Pachocki on slow takeoff / monitoring degradation
-- Related: [[openai-research-acceleration-view-inside]] — OpenAI's own acceleration metrics
+## See also
 
-**Note:** This is a 2024 paper. The insider-warning wave of Sep 2026 (Coxon resignation, Pachocki essay, 14+ endorsers, Gioia collection) happened after this was written and gives the "slow takeoff is still alarming" framing additional empirical weight.
+- [[ai-2027]]
+- [[recursive-self-improvement]]
+- [[pacing-the-frontier]]
+- [[ij-good-speculations-ultraintelligent-machine]]
