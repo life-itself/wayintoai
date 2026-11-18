@@ -24,7 +24,7 @@ This is a practical guide and knowledge base for documenting AI coding agents, t
    git push
    ```
 
-For requested content-entry work, complete this Git workflow as part of the task. This repository-specific instruction grants authority to commit and push the files for that entry; it overrides the conservative Beads default below. Stage only the files created or changed for the task, including any related assets. Do not include unrelated existing changes.
+Commit and push completed task work by default. This repository-specific policy grants authority to commit and push reference entries and their related logs and assets; it overrides the conservative Beads default below. Newsletter work may be committed, but wait for Rufus's approval before pushing it. Stage only files created or changed for the task, and do not include unrelated existing changes.
 
 ## Critical Rules
 
@@ -171,7 +171,8 @@ This protocol applies when ending a Beads implementation workflow. It is subordi
 3. **Update issue status** - Close finished work, update in-progress items
 4. **Handle git/sync by active profile**:
    ```bash
-   # Conservative/minimal/default: report status and proposed commands; wait for approval.
+   # Follow the repository-specific Git policy above where it grants commit/push authority.
+   # Otherwise, report status and proposed commands; wait for approval.
    git status
 
    # Team-maintainer opt-in only, unless current instructions forbid it:
