@@ -17,12 +17,14 @@ This is a practical guide and knowledge base for documenting AI coding agents, t
 4. **Add log entry**: 1-2 sentences in `logs/YYYY-MM-DD.md`
 5. **Pull, commit, push**:
    ```bash
-   cd ~/src/datopian/wayintoai
+   cd ~/src/life-itself/wayintoai
    git pull --rebase
    git add ref/ logs/
    git commit -m "Add: [Topic]"
    git push
    ```
+
+For requested content-entry work, complete this Git workflow as part of the task. This repository-specific instruction grants authority to commit and push the files for that entry; it overrides the conservative Beads default below. Stage only the files created or changed for the task, including any related assets. Do not include unrelated existing changes.
 
 ## Critical Rules
 

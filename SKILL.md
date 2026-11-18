@@ -108,13 +108,7 @@ tags: [tag1, tag2, tag3]
 > After playing with this for a few weeks, haven't found it so satisfying yet. Maybe haven't got the knack. — Rufus Pollock
 ```
 
-**Git workflow for updates:**
-```bash
-cd ~/src/datopian/wayintoai
-git add ref/updated-file.md
-git commit -m "Update: [item name] - add user experience note"
-git push
-```
+For requested content updates, follow the repository's Git workflow above: commit and push the files changed for the update, including related assets. Do not include unrelated existing changes.
 
 **When NOT to update:**
 - Minor typos or formatting fixes (batch these)
@@ -184,19 +178,7 @@ Add [topic] reference and YYYY-MM-DD log
 
 **Beads sync:** `git push` also pushes the Beads Dolt data (`refs/dolt/data`) via `.beads/hooks/pre-push`. If the hook reports a failure, run `bd dolt push` by hand.
 
-**Push — auto-push on commit (no wait):**
-```bash
-cd ~/src/datopian/wayintoai
-git push
-```
-- GitHub PAT configured in remote URL
-- **Push immediately on commit** — repo auto-pushes in the same step, no waiting for user.
-```bash
-cd ~/src/datopian/wayintoai
-git push
-```
-- GitHub PAT configured in remote URL
-- **Wait for user to request push** - don't push automatically after commit
+Push the commit as part of completing the requested content task. The pre-push hook also syncs Beads; if it reports a failure, run `bd dolt push` by hand.
 
 ## Examples
 
@@ -295,9 +277,8 @@ of Gmail (2M emails, 150K attachments) in a single Go binary.
 - [ ] If web tool: add screenshot via screenshotit.app
 - [ ] Paragraphs ≤ ~60 words; 3+ comparable figures in a table (chart if it helps)
 - [ ] Update `logs/YYYY-MM-DD.md` with wiki link entry
-- [ ] Git add both files
-- [ ] Git commit with descriptive message
-- [ ] Wait for user to request push (don't auto-push)
+- [ ] Stage only the files changed for this entry, including related assets
+- [ ] Commit with a descriptive message and push
 
 ## Notes
 
