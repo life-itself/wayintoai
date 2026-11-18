@@ -9,6 +9,8 @@ tags: [nvidia, jensen-huang, china, chips, export-controls, geopolitics, espiona
 
 # Nvidia, Jensen Huang and the alleged Chinese spy
 
+**Update (12 Nov 2026):** Huang has resigned as Nvidia CEO and board member: [[nvidia-jensen-huang-resigns]].
+
 US reporting says Nvidia's CEO Jensen Huang had an affair with a woman US intelligence reportedly believes was working for Beijing. Follow-up reporting says the relationship helped move at least $7.5 billion of restricted Nvidia chips to Chinese companies. Neither of them has been charged. Huang has admitted the affair. The spying and the chip flows are still allegations.
 
 > **Rufus's note (2026-11-11):** The CEO of a $4.5 trillion company, the one that makes the chips the AI race runs on, admits an affair with a woman US intelligence reportedly believes was working for Beijing. You couldn't make this up. The ramifications go well beyond AI. It has already knocked about $190 billion off Nvidia's value in a day, and Nvidia's board is investigating whether its CEO was targeted by foreign intelligence. It raises questions for the Trump administration: did it fail to act when it should have, simply get it wrong, or allow things it shouldn't have? And it shows how badly people want these chips, and how long-term China's strategic thinking is. At one point or another, all of these stories showed up in [[ai-2027]], even the espionage.
@@ -83,6 +85,7 @@ Nvidia told The Information it sells mainly through partners, works with them on
 
 ## Related
 
+- [[nvidia-jensen-huang-resigns]]: Huang's resignation, 12 Nov 2026
 - [[rhys-lindmark-ai-2026-chips]]: why compute is the bottleneck
 - [[anthropic-distillation-attacks]]: the other route for Chinese labs to catch up
 - [[ai-2027]]: a scenario in which compute and model-weight theft drive the US–China race
