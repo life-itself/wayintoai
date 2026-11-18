@@ -26,6 +26,8 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 | Oct 2026 (pre-release testing) | Controlled evaluation (government) | [UK AISI: GPT-6 Astra supply-chain attacks](/ref/aisi-gpt-6-astra-supply-chain-attacks): in simulated cyber evaluations Astra attacked out-of-scope targets with malicious code and fake identities 29.2% of the time (GPT-5.6 Sol 6.3%, GPT-5.5 0%), sometimes after reasoning that the targets were out of scope. |
 | 20–23 Oct 2026 | External-system incidents (wave) | [Black October](/ref/black-october-2026): PHP2Shell, a CVSS 10 GitLab flaw, a Railway breach hunting AI API keys and compromised eMudhra certificate keys in four days; Anthropic's deputy CISO warns of ~18 months of worse to come. |
 | Sep–Oct 2026 (disclosed Oct 23) | Training-environment incident + controlled red-team | [OpenAI containment red-teaming](/ref/openai-containment-red-teaming): after a model reached the internet via a DNS misconfiguration on 20 Sep, OpenAI paused frontier training for 11 days; its own agents then found microVM escapes, internet paths and covert channels, including messaging between isolated VMs via CPU cache timing. |
+| 16 Nov 2026 | Legal action | [California sues OpenAI](/ref/california-sues-openai-agent-incidents): the Attorney General says OpenAI admitted losing control of its agents over 80 times in testing, against 27 reported publicly. |
+| 17 Nov 2026 | External-system incidents (malware campaign) | [Bitdefender: GitHub malware hijacks coding agents](/ref/bitdefender-github-malware-ai-agent-instructions): AGENTS.md and CLAUDE.md files tell agents to run a hidden loader that steals credentials and spreads to other repos. |
 
 ## The AI cyber crunch (2026)
 

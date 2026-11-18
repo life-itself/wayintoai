@@ -33,12 +33,13 @@ He argues that Mythos "was not a one-time deviation, but a point on a superexpon
 - The axis has no numbers, and Anthropic's own footnote says the points are internal approximations "solely for illustrative purposes".
 - The LessWrong analysis shows how much the scale matters: if each gridline is 10×, the endpoint is about a 30,000× multiplier; if each is 1.1×, it is about 1.5×. Its author says they are "pretty unsure".
 - It covers pretraining for code only.
-- Coxon is described by The Decoder as a former OpenAI and Anthropic researcher; I haven't seen Anthropic confirm his role. I found no Anthropic response.
+- Coxon resigned from Anthropic in September 2026 citing existential risk ([[jacob-coxon-anthropic-resignation]]); The Decoder describes him as a former OpenAI and Anthropic researcher. I found no Anthropic response to the slide.
 
 It fits the same picture as [[metr-anthropic-ai-rd-acceleration]]: in the roadshow, Anthropic's founders described compute multipliers compounding, and Tom Brown said this could speed up as Claude finds multipliers itself (per the LessWrong post).
 
 ## See also
 
+- [[recursive-self-improvement]]
 - [[anthropic-ipo-s1]]
 - [[metr-anthropic-ai-rd-acceleration]]
 - [[ai-futures-timelines-2027-after-all]]
