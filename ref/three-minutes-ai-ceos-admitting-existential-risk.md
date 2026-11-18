@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-18
+newsletter_url: https://wayintoai.com/weekly/2026-w47
 created: 2026-11-17
 author: ControlAI
 tags: [ai-risk, existential-risk, ai-ceos, video, twitter]

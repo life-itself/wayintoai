@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-18
+newsletter_url: https://wayintoai.com/weekly/2026-w47
 created: 2026-11-18
 original_date: 2026-11-18
 author: OpenAI

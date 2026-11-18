@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-18
+newsletter_url: https://wayintoai.com/weekly/2026-w47
 created: 2026-11-18
 tags: [moc, california, ai-policy, ai-regulation, newsom, sb-53, sb-1047, lawsuit, pre-emption, frontier-ai]
 ---

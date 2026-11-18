@@ -1,4 +1,6 @@
 ---
+newsletter_sent: 2026-11-18
+newsletter_url: https://wayintoai.com/weekly/2026-w47
 title: "AI is the interface: how to use AI for knowledge work"
 description: A short manifesto and day-to-day practice for moving knowledge work onto AI, starting with the AI as the interface.
 order: 2
