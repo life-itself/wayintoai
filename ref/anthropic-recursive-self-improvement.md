@@ -35,6 +35,14 @@ Inflection points correlate with Claude Code release, Claude Sonnet 4.5, Claude 
 
 Key framing: this is **recursive self-improvement** — AI helping build better AI, measured not theoretically but in actual merged code per engineer.
 
+## Update (18 Sep 2026)
+
+Anthropic added a chart of internal Claude Code session success rates. Success on "open-ended problems" rose from about 26% in August 2025 to about 91% by September 2026, with the sharpest jump after internal access to Mythos Preview in March 2026. All four task types now sit around 88–92%. The success rates are judged by an LLM, and most open-ended weeks in 2025 had fewer than 100 sessions.
+
+![Claude Code session success rate, Aug 2025 to Sep 2026: trivial, routine, substantial and open-ended tasks all converge near 90%; open-ended problems rise from about 26% to 91%, jumping in March 2026](/assets/anthropic-claude-code-success-rate-sep-2026.png)
+
+The piece is by Marina Favaro and Jack Clark. Its own caveats: the 8× figure counts lines of code and is "almost certainly an overstatement", and the 52× speed-up is not a real-world training speed-up.
+
 ## Excerpts
 
 ### From 3x to 52x speed up in improving AI models
@@ -76,6 +84,10 @@ Full excerpt
 > A meaningful slowdown or pause would require multiple well-resourced labs at or near the frontier, in multiple countries, agreeing to stop under the same conditions. It would also require that each can verify that the others have actually stopped. Due to the unique characteristics of AI systems, the detectability (a lower standard than verifiability) element of this arms control problem is much more challenging than with other technologies. Training runs are far easier to conceal than missile silos, their inputs are general-purpose, and the incentive to defect quietly is enormous, because whoever continues while others pause could inherit the lead. A credible pause also has to specify what triggers it, what lifts it, and who adjudicates.
 >
 > None of this is necessarily impossible in principle—the world has built verification regimes for other complex technologies (e.g., the Intermediate-Range Nuclear Forces Treaty)—but those regimes took decades to build both the infrastructure and the trust. We don’t have that long. A unilateral pause by one lab, by contrast, is achievable immediately, but accomplishes much less: it would change who the front-runner is, but it would not create the wider deliberative process that is currently missing.
+
+## See also
+
+- [[recursive-self-improvement]]: the map of RSI evidence and debate
 
 ## Significance
 

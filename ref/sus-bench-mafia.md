@@ -15,6 +15,9 @@ A leaderboard from a 10-player social-deduction game (like Mafia or Among Us) wh
 > **Rufus's note (2026-11-14):**
 > AI playing against humans at Mafia: the latest models beat humans. — Rufus Pollock
 
+![A Mog School, the game behind SUS-Bench: a cartoon student in a red hoodie outside a school at dusk, with a Play button and Solo, Friends and Ranked modes](/assets/sus-bench-a-mog-school-game.jpg)
+*The game: A Mog School (amogschool.com).*
+
 ## Links
 
 - **Leaderboard and method**: https://peoplemakethings.com/sus
