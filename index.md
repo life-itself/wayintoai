@@ -39,6 +39,7 @@ showEditLink: false
 <section class="wai__section">
 <h2>Recently selected</h2>
 <div class="wai__list">
+<a href="/ref/gemini-4-neon"><span class="wai__date">18 Nov 2026</span><span class="wai__title">Google launches Gemini 4 Neon: near-frontier, a third cheaper than Carbon</span><span class="wai__kind">understand</span></a>
 <a href="/ref/openai-eth-kakeya-yang-mills"><span class="wai__date">26 Oct 2026</span><span class="wai__title">OpenAI says its AI settled three major open problems</span><span class="wai__kind">understand</span></a>
 <a href="/ref/anthropic-ipo-s1"><span class="wai__date">26 Oct 2026</span><span class="wai__title">Anthropic files for IPO at a ~$2 trillion valuation</span><span class="wai__kind">understand</span></a>
 <a href="/ref/black-october-2026"><span class="wai__date">23 Oct 2026</span><span class="wai__title">Black October: AI's security apocalypse arrives</span><span class="wai__kind">understand</span></a>

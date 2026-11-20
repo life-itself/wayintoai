@@ -14,6 +14,8 @@ Google's models and AI products covered here, in date order. For releases from a
 | 2026-05-19 | [[gemini-spark]] | Always-on personal agent inside Gmail and Docs |
 | mid-Oct 2026 | Gemini 4 Argon | Frontier model; no entry here yet (Carbon's announcement says it "was launched two weeks ago") |
 | 2026-10-28 | [[gemini-4-carbon]] | Google's strongest model; new point on the price–performance frontier |
+| 2026-11-12 | [[gemini-4-hydrogen]] | Fast, cheap model for everyday execution; $1.50 / $7.50 |
+| 2026-11-18 | [[gemini-4-neon]] | Middle tier: near-frontier, 32% cheaper per task than Carbon; #1 on coding-agent index |
 
 ## Related
 

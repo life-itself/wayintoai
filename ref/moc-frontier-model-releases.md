@@ -54,8 +54,10 @@ Claude Mythos 5.1, which has restricted access, scores 60.9% on Terminal-Bench 4
 | 2026-09-22 | [[claude-opus-5-5]] | Anthropic | Fable 5.1-level for about 40% less than Opus 5; Sonnet/Haiku 5.5 "in the coming weeks" | [^opus-5-5] |
 | 2026-10-07 | [[claude-haiku-5-5]] | Anthropic | About 75% cheaper to run than Haiku 4.5 | [^haiku-5-5] |
 | 2026-10-28 | [[gemini-4-carbon]] | Google DeepMind | Top of the Artificial Analysis index; second only to Opus 5.5 on cost-per-task, at about a quarter of the price; restricted rollout to cyber defenders first | [^carbon] |
+| 2026-11-12 | [[gemini-4-hydrogen]] | Google DeepMind | Fast, cheap tier of Gemini 4; $1.50 / $7.50 per million tokens | [^hydrogen] |
 | 2026-11-09 | [[claude-fable-5-2]] + Mythos 5.2 | Anthropic | "A step above Opus 5.5" on almost everything; big gains on long agentic tasks (Remote Labor Index 17.9% → 41.3%); $8 / $40; Opus 5.5 stays the default | [^fable-5-2] |
 | 2026-11-18 | [[gpt-6-2-astra-sol]] | OpenAI | Near-frontier scores at a fraction of the cost per task (vendor figures); Astra is OpenAI's first released model at "High" for AI self-improvement | [^gpt-6-2] |
+| 2026-11-18 | [[gemini-4-neon]] | Google DeepMind | Middle tier: #3 on Artificial Analysis index, #1 on its coding-agent index, 32% cheaper per task than Carbon; $3 / $15 | [^neon] |
 
 ### 2024–2025 (Claude, for context)
 
@@ -103,3 +105,5 @@ Where a row links to a reference entry here, that entry holds the fuller write-u
 [^fable-5-2]: [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2), Anthropic, 2026-11-09. Its benchmark table uses newer versions (FrontierCode 2.0, OSWorld 2.1) and does not report Terminal-Bench 4.0, so it is not in the chart above.
 [^gpt-6-2]: [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/), OpenAI, 2026-11-18.
 [^carbon]: [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/), Google, 2026-10-28.
+[^hydrogen]: [Introducing Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/), Google, 2026-11-12.
+[^neon]: [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/), Google, 2026-11-18.
