@@ -31,6 +31,8 @@ This timeline deliberately separates **controlled evaluations** from **observed 
 
 ## The AI cyber crunch (2026)
 
+For attacks where AI is the attacker (break-ins, ransomware, agent swarms), see the dedicated map: [[moc-ai-cyber-attacks]]. Latest: [[cnn-ai-agent-swarm-14-minute-breach|an agent swarm breached a company in 14 minutes, bypassing MFA]] (20 Nov).
+
 AI now finds software bugs faster than people can fix them, for attackers and defenders alike. In October 2026 that turned into a wave of real failures. Start here:
 
 - [[black-october-2026|Black October]] (20–23 Oct): PHP, GitLab, Railway and eMudhra fail in four days; Anthropic's deputy CISO warns of about 18 months of worse to come. The hub for the wave.
