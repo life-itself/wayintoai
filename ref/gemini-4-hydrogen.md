@@ -18,7 +18,8 @@ Google's fast, cheap Gemini 4 model, built for quick everyday execution or as th
 - **Price**: $1.50 input / $7.50 output per million tokens, flat across the 1M-token context.
 - **Benchmarks**: Artificial Analysis Intelligence Index 51 at high (Argon 50), 54 at the new xhigh setting; Terminal-Bench 4.1 57% against 18.2% for Gemini 3.8 Flash; Vals Tax Agent Bench #1 (52.3%). About 2.5x faster than 3.8 Flash.
 - **Orchestrator**: Google Antigravity can switch between Carbon and Hydrogen in one session; near-Carbon task success with 24% less quota and 19% faster (vendor-reported).
-- **Access**: Gemini app model drop-down for everyone (free users via auto model selection), Google Search for all users, Gemini API and AI Studio on all tiers, Antigravity for paid Pro and Ultra, Gemini in Sheets for Pro/Ultra and eligible business plans. Workspace inclusion is not stated.
+- **Access**: Gemini app model drop-down for everyone (free users via auto model selection), Google Search for all users, Gemini API and AI Studio on all tiers, Antigravity for paid Pro and Ultra, Gemini in Sheets for Pro/Ultra and eligible business plans. 
+- **Workspace**: included (checked by Rufus, 2026-11-20); Google's launch post doesn't say so.
 
 ## Related
 
