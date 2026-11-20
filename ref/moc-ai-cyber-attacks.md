@@ -11,6 +11,10 @@ Map of Content for AI being used to attack organisations: break in, move through
 
 AI agents now do the tactical work of an intrusion: scanning, writing exploits, harvesting credentials, moving sideways. Humans still choose targets and goals. The reported timescale for a full break-in has fallen from weeks to hours to minutes, while the capability evidence (government tests, exploit-building pipelines) says it will keep falling.
 
+## The trend data
+
+- [[bridgewater-ai-cyber-virus|Bridgewater: "AI cyber virus"]] (13 Nov 2026): the world's largest hedge fund tracks AI-enabled attacks and exploits as exponential, and is managing money on a one-in-three chance of an economically destabilising attack within a year. The best data-backed overview so far: incident counts, zero-days roughly doubled, disclosure-to-exploit time down from a month to 11 days.
+
 ## Real-world attacks using AI
 
 | Date | Incident | What happened |
@@ -47,8 +51,9 @@ The two eSecurity Planet rows are secondary reports and I have not checked them 
 1. **Speed is the story.** Weeks, then hours, now minutes. Detection and response built for human speed do not fit.
 2. **Humans direct, agents execute.** Where analysts could tell, a person set the goals and agents did the tactical work.
 3. **Old weaknesses, new speed.** AI surfaces long-standing flaws and stolen credentials faster than they can be fixed.
-4. **MFA is not a wall.** The CNN account claims a bypass; the mechanism is not yet public.
-5. **Evidence quality varies.** Several of these cases rest on one report or an attacker's own claims. Check the source before quoting numbers.
+4. **The trend is measured, not just anecdotal.** Bridgewater's incident series shows a near-vertical rise since the summer's open-weight cyber models.
+5. **MFA is not a wall.** The CNN account claims a bypass; the mechanism is not yet public.
+6. **Evidence quality varies.** Several of these cases rest on one report or an attacker's own claims. Check the source before quoting numbers.
 
 ---
 
