@@ -10,6 +10,10 @@ Every post in `posts/` (except `posts/index.md`) needs `authors` in its frontmat
 
 The guide lives in `use/knowledge-work/` (landing page `index.md`, chapters such as `how-to-use-ai.md`). Unpublished drafts and rough notes go in `drafts/how-to-use-ai/` with `publish: false`; list each in `drafts/README.md`. When Rufus shares a learning about how to use AI day to day, capture it there as a note and add a bead to fold it into the guide.
 
+## Commit and push
+
+For content work (new refs, MoCs, logs, posts), always commit and push at the end without asking. This overrides the conservative Beads default below.
+
 ## Changelog
 
 For editorial featuring and newsletter selection, follow **Featuring and newsletter selection** in `SKILL.md`: use `featured` and `newsletter` on the canonical post/reference, and `newsletter_candidates` links in daily logs. These flags do not send email.

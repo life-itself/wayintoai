@@ -107,6 +107,10 @@ The guide lives in `use/knowledge-work/` (landing page `index.md`, chapters such
 
 **Don't work from memory. Read SKILL.md when adding entries.**
 
+## Commit and push
+
+For content work (new refs, MoCs, logs, posts), always commit and push at the end without asking. This overrides the conservative Beads default below.
+
 ## Changelog
 
 For editorial featuring and newsletter selection, follow **Featuring and newsletter selection** in `SKILL.md`: use `featured` and `newsletter` on the canonical post/reference, and `newsletter_candidates` links in daily logs. These flags do not send email.
