@@ -38,6 +38,10 @@ On the leaderboard Rufus shared (score against median cost per task over 14 days
 
 Opus 5.5 still scores highest, but at $7.13 a task. Carbon gets about three-quarters of that gain for $1.76.
 
+## Workspace
+
+Not included in Google Workspace plans (checked by Rufus, 2026-11-20); Hydrogen is.
+
 ## Why interesting
 
 It is Google's clearest frontier entry this year. Like Opus 5.5 and GPT-6 Astra, it launches with cyber capability as the headline and a restricted rollout, the same pattern as the security crunch ([[moc-ai-security-incidents]]).

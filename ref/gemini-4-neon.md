@@ -33,7 +33,7 @@ Rolling out from 18 Nov 2026.
 - **Google AI Studio and Gemini API**: paid tier for developers; Pro and Ultra subscribers can try it in AI Studio. Also Android Studio.
 - **Google Antigravity**: paid Pro and Ultra subscribers.
 - **Enterprise**: "Gemini for business" (Gemini Enterprise), via the API or model drop-down.
-- **Not stated**: any Google Workspace plan inclusion, free-tier Gemini app access, regions, or Vertex AI. Hydrogen is included in Workspace (checked by Rufus); Neon's Workspace status is unconfirmed.
+- **Not stated**: any Google Workspace plan inclusion, free-tier Gemini app access, regions, or Vertex AI. Hydrogen is included in Workspace (checked by Rufus); Neon is not (checked by Rufus, 2026-11-20); nor is Carbon.
 
 ## Why interesting
 
