@@ -21,7 +21,7 @@ Major discoveries and milestones where AI systems have contributed to — or ind
 
 - **September 11, 2026** — 25 Fields Medallists (including Tao, Deligne, Hairer, Scholze, Smirnov, Viazovska, Zelmanov, and others) sign a declaration protesting the AI industry's rush to solve major mathematical problems as a benchmark. Argues the goals of AI companies and the mathematical community are "severely misaligned," warns of mass-producing "true/false" statements destroying the field's fertile ground, and calls out attribution/plagiarism issues from rushed AI-produced proofs. [[tao-fields-medalists-ai-mathematics-declaration]]
 - **October 7, 2026** — OpenAI releases 719 manuscripts (372 result families) from its internal model on GitHub, ~42% Lean-formalized. Headline: the **quasi-Riemann hypothesis** (zeta zero-free for Re(s) > 7/8), plus BSD for Selmer corank ≤ 1 and the Hodge conjecture for CM abelian varieties. Alex Kontorovich: "If a human did this, it would be an instant Fields Medal." Three Hodge papers withdrawn the same day over a sign error. [[openai-math-results-release]]
-- **November 20, 2026** — Anthropic mathematician Levent Alpöge says he and Claude have proved the **Riemann Hypothesis** (and GRH) in about six weeks. Released as Lean only, with no paper. Sutherland reports a clean kernel recheck; whether the final statement really is RH is still being checked. [[alpoge-claude-riemann-hypothesis-proof]]
+- **November 20, 2026** — **Riemann Hypothesis proved by Anthropic and Claude (claimed).** Anthropic mathematician Levent Alpöge says he and Claude proved RH (and GRH) in about six weeks. Released as Lean only, with no paper. Sutherland reports a clean kernel recheck; whether the final statement really is RH is still being checked. [[riemann-hypothesis-proved]]
 
 ## Context
 
@@ -34,6 +34,6 @@ These are not AI "solving math" in the sense of finding entirely new branches or
 - [[openai-navier-stokes-millennium-proof]] — Sep 2026 Navier–Stokes Millennium Problem claim + priority controversy
 - [[tao-fields-medalists-ai-mathematics-declaration]] — Sep 11, 2026: 25 Fields Medallists declare "severe misalignment" of AI in mathematics
 - [[openai-math-results-release]] — Oct 7, 2026: 719 AI-produced manuscripts incl. quasi-Riemann hypothesis
-- [[alpoge-claude-riemann-hypothesis-proof]] — Nov 20, 2026: Alpöge + Claude claim RH/GRH, Lean-only
+- [[riemann-hypothesis-proved]] — Nov 20, 2026: Anthropic and Claude claim RH/GRH, Lean-only
 - [[proofatlas]] — LLM-ranked top 500 open maths problems, with status notes on AI resolution claims
 - [[agent-psychosis]] — the psychological dimension of human-AI interaction in expert domains

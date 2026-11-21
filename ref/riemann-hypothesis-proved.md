@@ -5,9 +5,9 @@ tags: [ai, mathematics, riemann-hypothesis, claude, anthropic, lean, proofs, for
 newsletter: weekly
 ---
 
-# Levent Alpöge and Claude claim a proof of the Riemann Hypothesis
+# Riemann Hypothesis proved by Anthropic and Claude (claimed)
 
-Anthropic mathematician Levent Alpöge says he and Claude have proved the Riemann Hypothesis, and the Generalized Riemann Hypothesis too, in about six weeks. The proof is released only as a Lean formalization, with no human-readable paper yet.
+Anthropic and Claude have produced a claimed proof of the Riemann Hypothesis. Anthropic mathematician Levent Alpöge says he and Claude have proved the Riemann Hypothesis, and the Generalized Riemann Hypothesis too, in about six weeks. The proof is released only as a Lean formalization, with no human-readable paper yet.
 
 ![Alpöge, remark.pdf](https://screenshotit.app/https://alpo.ge/remark.pdf)
 
