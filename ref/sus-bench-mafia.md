@@ -15,7 +15,7 @@ A leaderboard from a 10-player social-deduction game (like Mafia or Among Us) wh
 ![SUS-Bench leaderboard: Claude Fable 5.2 51.0, GPT-6 Astra 47.9, Claude Fable 5.1 45.9, GPT-6.1 Terra 44.0, GPT-6.1 Sol 43.2, Gemini 3.8 Flash 35.5, Opus 5.5 35.4; dashed line "People (up to 35)"](/assets/sus-bench-leaderboard.png)
 
 > **Rufus's note (2026-11-14):**
-> AI playing against humans at Mafia: the latest models beat humans. — Rufus Pollock
+> AI playing against humans at Mafia: the latest models beat humans.
 
 ![A Mog School, the game behind SUS-Bench: a cartoon student in a red hoodie outside a school at dusk, with a Play button and Solo, Friends and Ranked modes](/assets/sus-bench-a-mog-school-game.jpg)
 *The game: A Mog School (amogschool.com).*

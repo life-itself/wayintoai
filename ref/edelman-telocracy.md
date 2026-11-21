@@ -12,7 +12,7 @@ tags: [institutions, governance, ai-and-society, meaning-alignment, pax-machina,
 An essay proposing that institutions be bound to written, revisable statements of purpose, with AI interpreting and enforcing them, and that people be able to form small purpose-based groups easily. Published as No. 7 of *Pax Machina*, a new venue for proposals about institutions in a world with powerful AI.
 
 > **Rufus's note (2026-11-05):**
-> Joe Edelman essay. Needs some thorough checking. Also a new journal. — Rufus Pollock
+> Joe Edelman essay. Needs some thorough checking. Also a new journal.
 
 ![Telocracy, Pax Machina](https://screenshotit.app/https://paxmachina.ai/telocracy)
 

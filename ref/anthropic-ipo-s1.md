@@ -13,7 +13,7 @@ tags: [anthropic, ipo, s-1, finance, revenue, public-benefit-corporation, long-t
 On 26 October 2026 Anthropic filed its S-1 to list on Nasdaq as ANT. Backers are reported to be targeting a valuation of at least $2 trillion, roughly double the $965 billion of its last private round in May. The filing shows revenue growing more than tenfold a year.
 
 > **Rufus's note (2026-10-26):**
-> Anthropic files for IPO at a $2tn valuation. The announcement has nothing in it; the detail is in the actual filing. — Rufus Pollock
+> Anthropic files for IPO at a $2tn valuation. The announcement has nothing in it; the detail is in the actual filing.
 
 ![Anthropic: S-1 announcement](https://screenshotit.app/https://www.anthropic.com/news/s1-sec)
 

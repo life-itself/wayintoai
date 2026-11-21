@@ -47,7 +47,7 @@ The announcement was immediately contested on **priority and conduct** grounds.
 ## Expert verdict: "definitely insane" (25 Oct 2026)
 
 > **Rufus's note (2026-10-26):**
-> More on the Navier–Stokes result from OpenAI. A very useful summary of why it is impressive. — Rufus Pollock
+> More on the Navier–Stokes result from OpenAI. A very useful summary of why it is impressive.
 
 Scott Armstrong (CNRS and NYU Courant, a specialist in PDEs and mathematical physics) [explained on X](https://x.com/scottnarmstrong/status/2114412308185100522) why the construction is new. It is closest to convex integration, where oscillations are usually built by hand. In OpenAI's proof, a fluid instability makes the flow generate its own oscillations, drawing energy from the background shear.
 

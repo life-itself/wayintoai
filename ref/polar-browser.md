@@ -10,7 +10,7 @@ tags: [ai-browsers, browser-agents, polar, computer-use, automation, workflows, 
 A Chromium-based Mac browser whose agent clicks, types and navigates sites while logged in as you, and can run tasks for hours or on a schedule. Launched on 29 July 2026 with a $5.7M seed round led by Madrona.
 
 > **Rufus's note (2026-11-05):**
-> Yet another browser. My questions: (a) why use a browser when you can use your AI agent? (there must be a decent answer) (b) why this one vs the others? — Rufus Pollock
+> Yet another browser. My questions: (a) why use a browser when you can use your AI agent? (there must be a decent answer) (b) why this one vs the others?
 
 ![Polar browser homepage](https://screenshotit.app/https://polarbrowser.com/)
 

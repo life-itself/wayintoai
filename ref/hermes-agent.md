@@ -18,7 +18,7 @@ Open-source, self-hosted personal agent whose pitch is that it gets better the m
 - **Install**: `curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash`
 
 > **User Experience Note (2026-10-06):**  
-> Huge star count, but I've struggled to find it that useful beyond simple jobs like filing links I drop to it via Telegram (see [Bookmarking in the age of AI](/posts/2026-09-28-bookmarking-in-the-age-of-ai)). — Rufus Pollock
+> Huge star count, but I've struggled to find it that useful beyond simple jobs like filing links I drop to it via Telegram (see [Bookmarking in the age of AI](/posts/2026-09-28-bookmarking-in-the-age-of-ai)).
 
 ## Overview
 

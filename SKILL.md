@@ -93,19 +93,20 @@ tags: [tag1, tag2, tag3]
 
 **Format for user feedback/experience:**
 ```markdown
-> **User Experience Note (YYYY-MM-DD):**  
-> [User's feedback or experience report] — [Name]
+> **[Name]'s note (YYYY-MM-DD):**  
+> [User's feedback or experience report]
 ```
 
 **Placement:**
 - Add near the top, after "What Is It?" or similar intro section
 - Before detailed features/documentation
 - Use blockquote format with bold heading for visibility
+- Don't add a "— Name" sign-off: the heading already says whose note it is, and repeating the name reads as unnatural
 
 **Example:**
 ```markdown
-> **User Experience Note (2026-02-26):**  
-> After playing with this for a few weeks, haven't found it so satisfying yet. Maybe haven't got the knack. — Rufus Pollock
+> **Rufus's note (2026-02-26):**  
+> After playing with this for a few weeks, haven't found it so satisfying yet. Maybe haven't got the knack.
 ```
 
 For requested content updates, follow the repository's Git workflow above: commit completed work by default and push it unless it is newsletter work, which requires Rufus's approval before pushing. Include related assets and do not include unrelated existing changes.

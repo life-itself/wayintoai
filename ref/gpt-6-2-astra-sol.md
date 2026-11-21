@@ -17,7 +17,7 @@ OpenAI's new pair, released 18 November 2026. Astra is the frontier model for th
 *Artificial Analysis Intelligence Index v5.0.1 against cost, as charted by OpenAI. Each line is one model at different effort levels.*
 
 > **Rufus's note (2026-11-18):**
-> Do worry a bit about benchmaxxing here … but overall impressive, especially on efficiency. — Rufus Pollock
+> Do worry a bit about benchmaxxing here … but overall impressive, especially on efficiency.
 
 ## Links
 

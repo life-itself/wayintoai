@@ -16,7 +16,7 @@ A slide from Anthropic's IPO roadshow shows the "pre-training compute multiplier
 *Anthropic IPO roadshow slide, via Jacob Coxon. The y-axis has no numbers.*
 
 > **Rufus's note (2026-11-13):**
-> RSI and superintelligence data point. — Rufus Pollock
+> RSI and superintelligence data point.
 
 ## Links
 

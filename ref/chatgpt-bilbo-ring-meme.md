@@ -11,4 +11,4 @@ A meme of Bilbo Baggins asking ChatGPT "After all, why not? Why shouldn't I keep
 ![Meme: Bilbo Baggins holding a phone; ChatGPT replies to "After all, why not? Why shouldn't I keep it?" with "You're absolutely right — you found it, it's been with you a long while…"](/assets/chatgpt-bilbo-ring-meme.png)
 
 > **Rufus's note (2026-11-12):**
-> Good meme for the way AI agrees with us and may not make us much wiser. — Rufus Pollock
+> Good meme for the way AI agrees with us and may not make us much wiser.

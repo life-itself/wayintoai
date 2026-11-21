@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=SqQAf9kmNOc
 
 ## Why interesting
 
-> More funny entertainment, and a sign of how good AI music and video has got. I also like the self-referential nature: a song about not being AI, when it is AI. — Rufus Pollock
+> More funny entertainment, and a sign of how good AI music and video has got. I also like the self-referential nature: a song about not being AI, when it is AI.
 
 ## Related
 

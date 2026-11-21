@@ -28,7 +28,7 @@ Anthropic is clear: "This is not a cryptographic break, new attack, or weakness 
 
 ## Why interesting
 
-> A cool little story, but also a demonstration of how clever an AI can be now. This is the kind of thing no one had worked out in years. It took in-depth research and quite intelligent exploration to find. It's an innocent example, but it's the kind of thing you would do in cybersecurity attack and defence. — Rufus Pollock
+> A cool little story, but also a demonstration of how clever an AI can be now. This is the kind of thing no one had worked out in years. It took in-depth research and quite intelligent exploration to find. It's an innocent example, but it's the kind of thing you would do in cybersecurity attack and defence.
 
 It is also a counterpoint to the maths story ([[openai-math-results-release]]): the same capability in a field where a finding can matter for security.
 

@@ -17,7 +17,7 @@ METR, the independent AI evaluator, spent 11 weeks inside Anthropic with unprece
 *METR: Anthropic's benchmark index has grown at 1.9× its pre-October 2025 rate. Orange dots were internal-only at the time.*
 
 > **Rufus's note (2026-11-07):**
-> This is *big* news. — Rufus Pollock
+> This is *big* news.
 
 ## Links
 

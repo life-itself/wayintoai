@@ -13,7 +13,7 @@ tags: [cybersecurity, ai-security, vulnerabilities, php, wordpress, gitlab, rail
 In four days, PHP, GitLab, a cloud host and a certificate authority all had critical security failures. Anthropic's deputy CISO says it will get worse for about 18 months, as AI speeds up both finding and exploiting bugs.
 
 > **Rufus's note (2026-10-22):**
-> More evidence for the security apocalypse from AI. — Rufus Pollock
+> More evidence for the security apocalypse from AI.
 
 ![PHP Foundation: today's PHP security release](https://screenshotit.app/https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 

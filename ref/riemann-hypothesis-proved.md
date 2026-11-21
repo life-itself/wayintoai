@@ -12,7 +12,7 @@ Anthropic mathematician Levent Alpöge says he and Claude, Anthropic's AI, have 
 ![Alpöge, remark.pdf](https://screenshotit.app/https://alpo.ge/remark.pdf)
 
 > **Rufus's note (2026-11-21):**
-> Massive news (if true): the Riemann Hypothesis solved by Claude over six weeks. — Rufus Pollock
+> Massive news (if true): the Riemann Hypothesis solved by Claude over six weeks.
 
 ## Links
 
