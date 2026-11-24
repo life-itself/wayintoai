@@ -32,5 +32,7 @@ Humphries argues that discovery in checkable fields like maths is starting to sp
 
 ## See also
 
+- [[riemann-hypothesis-proved]], and Rufus's short [The end of human mathematics. Everything else is next.](https://www.youtube.com/shorts/rOWKmYk4_eQ)
+
 - [[ai-and-mathematics]]
 - [[gpt-6-2-astra-sol]]

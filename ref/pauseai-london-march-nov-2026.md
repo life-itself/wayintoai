@@ -1,6 +1,7 @@
 ---
 created: 2026-11-24
 original_date: 2026-11-21
+newsletter: weekly
 tags: [pauseai, protest, ai-safety, uk, activism, ai-risk]
 ---
 
