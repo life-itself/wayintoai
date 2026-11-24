@@ -54,7 +54,7 @@ The warnings track real events. The most authoritative evidence so far is [[aisi
 
 ## In politics
 
-The warnings have reached US politics: bills to ban superintelligence or require a kill switch, polls showing 70% of voters more worried than excited, and AI as a midterm issue. See [[ai-risk-us-midterms]].
+The warnings have reached US politics: bills to ban superintelligence or require a kill switch, polls showing 70% of voters more worried than excited, and AI as a midterm issue. See [[ai-risk-us-midterms]]. On the street, PauseAI's London march on 21 November 2026 drew a crowd organisers put at over 1,000: [[pauseai-london-march-nov-2026]]. For a common counter-argument, that the field's inventors are the worst people to ask, see [[andreessen-inventors-cant-predict-ai]].
 
 ## Related
 

@@ -8,6 +8,8 @@ tags: [nvidia, jensen-huang, china, chips, governance, major-news]
 
 # Jensen Huang resigns as Nvidia CEO
 
+> **Update (23 Nov 2026):** the board reinstated Huang after 11 days. See [[nvidia-jensen-huang-reinstated]].
+
 On 12 November 2026 Nvidia announced that Jensen Huang had resigned as president, CEO and board member, "effective immediately", after 33 years running the company he co-founded. CFO Colette Kress is interim CEO while the board searches for a permanent one. Harvey C. Jones, former Synopsys CEO, becomes Nvidia's first-ever board chair.
 
 This follows [[nvidia-jensen-huang-china-spy-chips]]: Huang's admitted affair with Alice Huang, a woman US intelligence reportedly believes worked for Beijing, and reports that the relationship helped move restricted chips into China.
